@@ -1,0 +1,682 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2404449A257DDDE1007D9CD5 /* ShopAnnotaion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24044499257DDDE1007D9CD5 /* ShopAnnotaion.swift */; };
+		2404449F257DE33C007D9CD5 /* ShopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2404449E257DE33C007D9CD5 /* ShopView.swift */; };
+		240444A4257DE6BD007D9CD5 /* ShopRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 240444A3257DE6BD007D9CD5 /* ShopRepository.swift */; };
+		240444AD257E788A007D9CD5 /* ShopClusterListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 240444AC257E788A007D9CD5 /* ShopClusterListView.swift */; };
+		246766052578AEB2006D8F85 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 246766042578AEB2006D8F85 /* MapKit.framework */; };
+		248E695B257A2E1F00A4E8B6 /* ShopFactroyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 248E695A257A2E1F00A4E8B6 /* ShopFactroyTests.swift */; };
+		248EE5CC257DD16900873D55 /* tyuo_shop_list_1206_with_coord.json in Resources */ = {isa = PBXBuildFile; fileRef = 248EE5CB257DD16900873D55 /* tyuo_shop_list_1206_with_coord.json */; };
+		24AAF9AA2580D43E00D7846D /* Area.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24AAF9A92580D43E00D7846D /* Area.swift */; };
+		24AD4B582579EF140011600A /* Shop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24AD4B572579EF140011600A /* Shop.swift */; };
+		24AD4B632579F0840011600A /* ShopFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24AD4B622579F0830011600A /* ShopFactory.swift */; };
+		24E7377E257F3088002570FA /* oomiya_shop_list_1208.json in Resources */ = {isa = PBXBuildFile; fileRef = 24E7377D257F3087002570FA /* oomiya_shop_list_1208.json */; };
+		24E73783257F30CC002570FA /* CoordinateLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24E73782257F30CC002570FA /* CoordinateLoader.swift */; };
+		24E73788257F5F82002570FA /* ShopCoordinateSearcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24E73787257F5F82002570FA /* ShopCoordinateSearcher.swift */; };
+		24E7378D257F70C0002570FA /* ShopCoordinateSearcherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24E7378C257F70C0002570FA /* ShopCoordinateSearcherTests.swift */; };
+		24F8DA882578A53C0051CA25 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24F8DA872578A53C0051CA25 /* AppDelegate.swift */; };
+		24F8DA8A2578A53C0051CA25 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24F8DA892578A53C0051CA25 /* SceneDelegate.swift */; };
+		24F8DA8C2578A53C0051CA25 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24F8DA8B2578A53C0051CA25 /* ViewController.swift */; };
+		24F8DA8F2578A53C0051CA25 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24F8DA8D2578A53C0051CA25 /* Main.storyboard */; };
+		24F8DA912578A53F0051CA25 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24F8DA902578A53F0051CA25 /* Assets.xcassets */; };
+		24F8DA942578A53F0051CA25 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24F8DA922578A53F0051CA25 /* LaunchScreen.storyboard */; };
+		24F8DAAA2578A5400051CA25 /* GoToEatSaitamaMapUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24F8DAA92578A5400051CA25 /* GoToEatSaitamaMapUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		24F8DA9B2578A53F0051CA25 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 24F8DA7C2578A53B0051CA25 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 24F8DA832578A53C0051CA25;
+			remoteInfo = GoToEatSaitamaMap;
+		};
+		24F8DAA62578A5400051CA25 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 24F8DA7C2578A53B0051CA25 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 24F8DA832578A53C0051CA25;
+			remoteInfo = GoToEatSaitamaMap;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		24044499257DDDE1007D9CD5 /* ShopAnnotaion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopAnnotaion.swift; sourceTree = "<group>"; };
+		2404449E257DE33C007D9CD5 /* ShopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopView.swift; sourceTree = "<group>"; };
+		240444A3257DE6BD007D9CD5 /* ShopRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopRepository.swift; sourceTree = "<group>"; };
+		240444AC257E788A007D9CD5 /* ShopClusterListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopClusterListView.swift; sourceTree = "<group>"; };
+		246766042578AEB2006D8F85 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		248E695A257A2E1F00A4E8B6 /* ShopFactroyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopFactroyTests.swift; sourceTree = "<group>"; };
+		248EE5CB257DD16900873D55 /* tyuo_shop_list_1206_with_coord.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = tyuo_shop_list_1206_with_coord.json; sourceTree = "<group>"; };
+		24AAF9A92580D43E00D7846D /* Area.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Area.swift; sourceTree = "<group>"; };
+		24AD4B572579EF140011600A /* Shop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shop.swift; sourceTree = "<group>"; };
+		24AD4B622579F0830011600A /* ShopFactory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopFactory.swift; sourceTree = "<group>"; };
+		24E7377D257F3087002570FA /* oomiya_shop_list_1208.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = oomiya_shop_list_1208.json; sourceTree = "<group>"; };
+		24E73782257F30CC002570FA /* CoordinateLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoordinateLoader.swift; sourceTree = "<group>"; };
+		24E73787257F5F82002570FA /* ShopCoordinateSearcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopCoordinateSearcher.swift; sourceTree = "<group>"; };
+		24E7378C257F70C0002570FA /* ShopCoordinateSearcherTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopCoordinateSearcherTests.swift; sourceTree = "<group>"; };
+		24F8DA842578A53C0051CA25 /* GoToEatSaitamaMap.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GoToEatSaitamaMap.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		24F8DA872578A53C0051CA25 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		24F8DA892578A53C0051CA25 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		24F8DA8B2578A53C0051CA25 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		24F8DA8E2578A53C0051CA25 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		24F8DA902578A53F0051CA25 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		24F8DA932578A53F0051CA25 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		24F8DA952578A53F0051CA25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24F8DA9A2578A53F0051CA25 /* GoToEatSaitamaMapTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GoToEatSaitamaMapTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		24F8DAA02578A53F0051CA25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24F8DAA52578A5400051CA25 /* GoToEatSaitamaMapUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GoToEatSaitamaMapUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		24F8DAA92578A5400051CA25 /* GoToEatSaitamaMapUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoToEatSaitamaMapUITests.swift; sourceTree = "<group>"; };
+		24F8DAAB2578A5400051CA25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		24F8DA812578A53C0051CA25 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				246766052578AEB2006D8F85 /* MapKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24F8DA972578A53F0051CA25 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24F8DAA22578A5400051CA25 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		240444AA257E7839007D9CD5 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				24F8DA8B2578A53C0051CA25 /* ViewController.swift */,
+				2404449E257DE33C007D9CD5 /* ShopView.swift */,
+				240444AC257E788A007D9CD5 /* ShopClusterListView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		240444AB257E7863007D9CD5 /* Map */ = {
+			isa = PBXGroup;
+			children = (
+				24044499257DDDE1007D9CD5 /* ShopAnnotaion.swift */,
+			);
+			path = Map;
+			sourceTree = "<group>";
+		};
+		246766032578AEB1006D8F85 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				246766042578AEB2006D8F85 /* MapKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		24AD4B512579EEC20011600A /* Resouces */ = {
+			isa = PBXGroup;
+			children = (
+				24E7377D257F3087002570FA /* oomiya_shop_list_1208.json */,
+				24F8DA902578A53F0051CA25 /* Assets.xcassets */,
+				248EE5CB257DD16900873D55 /* tyuo_shop_list_1206_with_coord.json */,
+				24F8DA952578A53F0051CA25 /* Info.plist */,
+			);
+			path = Resouces;
+			sourceTree = "<group>";
+		};
+		24F8DA7B2578A53B0051CA25 = {
+			isa = PBXGroup;
+			children = (
+				24F8DA862578A53C0051CA25 /* GoToEatSaitamaMap */,
+				24F8DA9D2578A53F0051CA25 /* GoToEatSaitamaMapTests */,
+				24F8DAA82578A5400051CA25 /* GoToEatSaitamaMapUITests */,
+				24F8DA852578A53C0051CA25 /* Products */,
+				246766032578AEB1006D8F85 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		24F8DA852578A53C0051CA25 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				24F8DA842578A53C0051CA25 /* GoToEatSaitamaMap.app */,
+				24F8DA9A2578A53F0051CA25 /* GoToEatSaitamaMapTests.xctest */,
+				24F8DAA52578A5400051CA25 /* GoToEatSaitamaMapUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		24F8DA862578A53C0051CA25 /* GoToEatSaitamaMap */ = {
+			isa = PBXGroup;
+			children = (
+				240444AB257E7863007D9CD5 /* Map */,
+				240444AA257E7839007D9CD5 /* Views */,
+				24AD4B512579EEC20011600A /* Resouces */,
+				24F8DA872578A53C0051CA25 /* AppDelegate.swift */,
+				24F8DA892578A53C0051CA25 /* SceneDelegate.swift */,
+				24F8DA8D2578A53C0051CA25 /* Main.storyboard */,
+				24F8DA922578A53F0051CA25 /* LaunchScreen.storyboard */,
+				24AD4B572579EF140011600A /* Shop.swift */,
+				24AD4B622579F0830011600A /* ShopFactory.swift */,
+				240444A3257DE6BD007D9CD5 /* ShopRepository.swift */,
+				24E73782257F30CC002570FA /* CoordinateLoader.swift */,
+				24E73787257F5F82002570FA /* ShopCoordinateSearcher.swift */,
+				24AAF9A92580D43E00D7846D /* Area.swift */,
+			);
+			path = GoToEatSaitamaMap;
+			sourceTree = "<group>";
+		};
+		24F8DA9D2578A53F0051CA25 /* GoToEatSaitamaMapTests */ = {
+			isa = PBXGroup;
+			children = (
+				24F8DAA02578A53F0051CA25 /* Info.plist */,
+				248E695A257A2E1F00A4E8B6 /* ShopFactroyTests.swift */,
+				24E7378C257F70C0002570FA /* ShopCoordinateSearcherTests.swift */,
+			);
+			path = GoToEatSaitamaMapTests;
+			sourceTree = "<group>";
+		};
+		24F8DAA82578A5400051CA25 /* GoToEatSaitamaMapUITests */ = {
+			isa = PBXGroup;
+			children = (
+				24F8DAA92578A5400051CA25 /* GoToEatSaitamaMapUITests.swift */,
+				24F8DAAB2578A5400051CA25 /* Info.plist */,
+			);
+			path = GoToEatSaitamaMapUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		24F8DA832578A53C0051CA25 /* GoToEatSaitamaMap */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 24F8DAAE2578A5400051CA25 /* Build configuration list for PBXNativeTarget "GoToEatSaitamaMap" */;
+			buildPhases = (
+				24F8DA802578A53C0051CA25 /* Sources */,
+				24F8DA812578A53C0051CA25 /* Frameworks */,
+				24F8DA822578A53C0051CA25 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GoToEatSaitamaMap;
+			productName = GoToEatSaitamaMap;
+			productReference = 24F8DA842578A53C0051CA25 /* GoToEatSaitamaMap.app */;
+			productType = "com.apple.product-type.application";
+		};
+		24F8DA992578A53F0051CA25 /* GoToEatSaitamaMapTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 24F8DAB12578A5400051CA25 /* Build configuration list for PBXNativeTarget "GoToEatSaitamaMapTests" */;
+			buildPhases = (
+				24F8DA962578A53F0051CA25 /* Sources */,
+				24F8DA972578A53F0051CA25 /* Frameworks */,
+				24F8DA982578A53F0051CA25 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				24F8DA9C2578A53F0051CA25 /* PBXTargetDependency */,
+			);
+			name = GoToEatSaitamaMapTests;
+			productName = GoToEatSaitamaMapTests;
+			productReference = 24F8DA9A2578A53F0051CA25 /* GoToEatSaitamaMapTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		24F8DAA42578A5400051CA25 /* GoToEatSaitamaMapUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 24F8DAB42578A5400051CA25 /* Build configuration list for PBXNativeTarget "GoToEatSaitamaMapUITests" */;
+			buildPhases = (
+				24F8DAA12578A5400051CA25 /* Sources */,
+				24F8DAA22578A5400051CA25 /* Frameworks */,
+				24F8DAA32578A5400051CA25 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				24F8DAA72578A5400051CA25 /* PBXTargetDependency */,
+			);
+			name = GoToEatSaitamaMapUITests;
+			productName = GoToEatSaitamaMapUITests;
+			productReference = 24F8DAA52578A5400051CA25 /* GoToEatSaitamaMapUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		24F8DA7C2578A53B0051CA25 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1220;
+				LastUpgradeCheck = 1220;
+				TargetAttributes = {
+					24F8DA832578A53C0051CA25 = {
+						CreatedOnToolsVersion = 12.2;
+					};
+					24F8DA992578A53F0051CA25 = {
+						CreatedOnToolsVersion = 12.2;
+						TestTargetID = 24F8DA832578A53C0051CA25;
+					};
+					24F8DAA42578A5400051CA25 = {
+						CreatedOnToolsVersion = 12.2;
+						TestTargetID = 24F8DA832578A53C0051CA25;
+					};
+				};
+			};
+			buildConfigurationList = 24F8DA7F2578A53B0051CA25 /* Build configuration list for PBXProject "GoToEatSaitamaMap" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 24F8DA7B2578A53B0051CA25;
+			productRefGroup = 24F8DA852578A53C0051CA25 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				24F8DA832578A53C0051CA25 /* GoToEatSaitamaMap */,
+				24F8DA992578A53F0051CA25 /* GoToEatSaitamaMapTests */,
+				24F8DAA42578A5400051CA25 /* GoToEatSaitamaMapUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		24F8DA822578A53C0051CA25 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24F8DA942578A53F0051CA25 /* LaunchScreen.storyboard in Resources */,
+				24F8DA912578A53F0051CA25 /* Assets.xcassets in Resources */,
+				248EE5CC257DD16900873D55 /* tyuo_shop_list_1206_with_coord.json in Resources */,
+				24E7377E257F3088002570FA /* oomiya_shop_list_1208.json in Resources */,
+				24F8DA8F2578A53C0051CA25 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24F8DA982578A53F0051CA25 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24F8DAA32578A5400051CA25 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		24F8DA802578A53C0051CA25 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24AD4B632579F0840011600A /* ShopFactory.swift in Sources */,
+				240444AD257E788A007D9CD5 /* ShopClusterListView.swift in Sources */,
+				240444A4257DE6BD007D9CD5 /* ShopRepository.swift in Sources */,
+				24F8DA8C2578A53C0051CA25 /* ViewController.swift in Sources */,
+				2404449F257DE33C007D9CD5 /* ShopView.swift in Sources */,
+				24F8DA882578A53C0051CA25 /* AppDelegate.swift in Sources */,
+				24E73788257F5F82002570FA /* ShopCoordinateSearcher.swift in Sources */,
+				2404449A257DDDE1007D9CD5 /* ShopAnnotaion.swift in Sources */,
+				24F8DA8A2578A53C0051CA25 /* SceneDelegate.swift in Sources */,
+				24E73783257F30CC002570FA /* CoordinateLoader.swift in Sources */,
+				24AAF9AA2580D43E00D7846D /* Area.swift in Sources */,
+				24AD4B582579EF140011600A /* Shop.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24F8DA962578A53F0051CA25 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24E7378D257F70C0002570FA /* ShopCoordinateSearcherTests.swift in Sources */,
+				248E695B257A2E1F00A4E8B6 /* ShopFactroyTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24F8DAA12578A5400051CA25 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24F8DAAA2578A5400051CA25 /* GoToEatSaitamaMapUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		24F8DA9C2578A53F0051CA25 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 24F8DA832578A53C0051CA25 /* GoToEatSaitamaMap */;
+			targetProxy = 24F8DA9B2578A53F0051CA25 /* PBXContainerItemProxy */;
+		};
+		24F8DAA72578A5400051CA25 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 24F8DA832578A53C0051CA25 /* GoToEatSaitamaMap */;
+			targetProxy = 24F8DAA62578A5400051CA25 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		24F8DA8D2578A53C0051CA25 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				24F8DA8E2578A53C0051CA25 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		24F8DA922578A53F0051CA25 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				24F8DA932578A53F0051CA25 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		24F8DAAC2578A5400051CA25 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		24F8DAAD2578A5400051CA25 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		24F8DAAF2578A5400051CA25 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 39WWX2FY3V;
+				INFOPLIST_FILE = GoToEatSaitamaMap/Resouces/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = saitoh0526.k.GoToEatSaitamaMap;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		24F8DAB02578A5400051CA25 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 39WWX2FY3V;
+				INFOPLIST_FILE = GoToEatSaitamaMap/Resouces/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = saitoh0526.k.GoToEatSaitamaMap;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		24F8DAB22578A5400051CA25 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 39WWX2FY3V;
+				INFOPLIST_FILE = GoToEatSaitamaMapTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = saitoh0526.k.GoToEatSaitamaMapTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GoToEatSaitamaMap.app/GoToEatSaitamaMap";
+			};
+			name = Debug;
+		};
+		24F8DAB32578A5400051CA25 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 39WWX2FY3V;
+				INFOPLIST_FILE = GoToEatSaitamaMapTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = saitoh0526.k.GoToEatSaitamaMapTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GoToEatSaitamaMap.app/GoToEatSaitamaMap";
+			};
+			name = Release;
+		};
+		24F8DAB52578A5400051CA25 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 39WWX2FY3V;
+				INFOPLIST_FILE = GoToEatSaitamaMapUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = saitoh0526.k.GoToEatSaitamaMapUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = GoToEatSaitamaMap;
+			};
+			name = Debug;
+		};
+		24F8DAB62578A5400051CA25 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 39WWX2FY3V;
+				INFOPLIST_FILE = GoToEatSaitamaMapUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = saitoh0526.k.GoToEatSaitamaMapUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = GoToEatSaitamaMap;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		24F8DA7F2578A53B0051CA25 /* Build configuration list for PBXProject "GoToEatSaitamaMap" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24F8DAAC2578A5400051CA25 /* Debug */,
+				24F8DAAD2578A5400051CA25 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		24F8DAAE2578A5400051CA25 /* Build configuration list for PBXNativeTarget "GoToEatSaitamaMap" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24F8DAAF2578A5400051CA25 /* Debug */,
+				24F8DAB02578A5400051CA25 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		24F8DAB12578A5400051CA25 /* Build configuration list for PBXNativeTarget "GoToEatSaitamaMapTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24F8DAB22578A5400051CA25 /* Debug */,
+				24F8DAB32578A5400051CA25 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		24F8DAB42578A5400051CA25 /* Build configuration list for PBXNativeTarget "GoToEatSaitamaMapUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				24F8DAB52578A5400051CA25 /* Debug */,
+				24F8DAB62578A5400051CA25 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 24F8DA7C2578A53B0051CA25 /* Project object */;
+}

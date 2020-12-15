@@ -1,0 +1,4307 @@
+[
+  {
+    "name": "鰓呼吸　大宮一番街店",
+    "address": "さいたま市大宮区宮町1-51-2小島ビル",
+    "phone_number": "048-614-6511",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "鮨・酒・肴　杉玉　大宮東口",
+    "address": "さいたま市大宮区宮町1-9湯澤ビル2F",
+    "phone_number": "048-640-5139",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "和食酒処よね本",
+    "address": "さいたま市大宮区宮町1-34-3大宮M1ビル3F",
+    "phone_number": "048-778-7922",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "路地裏食堂 たけぞう",
+    "address": "さいたま市大宮区大門町2-28第1松ビル1F",
+    "phone_number": "048-657-1727",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "矢まと　大宮店",
+    "address": "さいたま市大宮区大門町1-18キムラヤビルB1～2F",
+    "phone_number": "048-647-6365",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "風来坊　大宮店",
+    "address": "さいたま市大宮区仲町2-36THANK COMING BY BUILDING3",
+    "phone_number": "048-645-8700",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "浜人",
+    "address": "さいたま市大宮区宮町2-77-1マル星第１ビル",
+    "phone_number": "048-657-8751",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "美味門 バンビーナ 大宮店",
+    "address": "さいたま市大宮区桜木町1-8-3サンユービル５Ｆ",
+    "phone_number": "048-645-1707",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "薄利多売半兵ヱ　大宮店",
+    "address": "さいたま市大宮区桜木町1-2-4金子ビル2F",
+    "phone_number": "048-640-1878",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "博多中洲ぢどり屋大宮店",
+    "address": "さいたま市大宮区仲町1-125-13",
+    "phone_number": "048-645-5678",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "葱や田蔵大宮東口店",
+    "address": "さいたま市大宮区大門町１丁目９３",
+    "phone_number": "048-657-2008",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "日本海庄や大宮西口店",
+    "address": "さいたま市大宮区桜木町1-10-17シーノ大宮サウスウィング1F",
+    "phone_number": "048-657-6169",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "日本海庄やさいたま新都心東口店",
+    "address": "さいたま市大宮区吉敷町4-261-1キャピタルビル1Ｆ",
+    "phone_number": "048-601-5569",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "肉寿司　大宮店",
+    "address": "さいたま市大宮区仲町1－33－6岩淵ビル 1F",
+    "phone_number": "048-856-9651",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "土間土間　大宮東口店",
+    "address": "さいたま市大宮区宮町１－７５ＲＥＸ大宮７Ｆ",
+    "phone_number": "048-640-5552",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "鳥良大宮店",
+    "address": "さいたま市大宮区宮町1-83TKY大宮ビル4F",
+    "phone_number": "048-657-9271",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "竹庭TOMORI　大宮店",
+    "address": "さいたま市大宮区仲町1-1-1大宮タウンビル5F",
+    "phone_number": "048-658-5333",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "鍛冶屋文蔵　大宮東口店",
+    "address": "さいたま市大宮区大門町1-3",
+    "phone_number": "048-645-1308",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "鍛冶屋文蔵　大宮西口JACKビル店",
+    "address": "さいたま市大宮区錦町682-2JACK大宮1F",
+    "phone_number": "048-657-4131",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "炭火串焼台所ちっきんはなれ大宮西口店",
+    "address": "さいたま市大宮区桜木町1-182-1エルミタージュサクラギ1F",
+    "phone_number": "048-783-4770",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "炭火串焼 心家",
+    "address": "さいたま市大宮区下町1-5-1第2マルハチビル103",
+    "phone_number": "048-788-3556",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "滝乃家",
+    "address": "さいたま市大宮区上小町1108",
+    "phone_number": "048-641-5080",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "大衆酒場とり徹",
+    "address": "さいたま市大宮区仲町１－６２－１",
+    "phone_number": "048-643-9494",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "大宮キッチン",
+    "address": "さいたま市大宮区大門町１丁目６１－１DK大宮ビル 4F",
+    "phone_number": "048-657-9522",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "創作酒庵　彩蔵大宮",
+    "address": "さいたま市大宮区仲町2-43-1COMO大宮ビル4F",
+    "phone_number": "048-778-9118",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "創作居酒屋いいとこ鶏　大宮店",
+    "address": "さいたま市大宮区大門町１－１２",
+    "phone_number": "048-645-8337",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "創業料理とお西かしや",
+    "address": "さいたま市大宮区桜木町2-277大宮田中ビル1F",
+    "phone_number": "048-642-3100",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "鮮や一夜大宮東口店",
+    "address": "さいたま市大宮区大門町１丁目６１－１DK大宮ビル 5F",
+    "phone_number": "048-657-3250",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "青",
+    "address": "さいたま市大宮区仲町2-391F",
+    "phone_number": "048-778-8233",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "鐘家",
+    "address": "さいたま市大宮区大門町1-18",
+    "phone_number": "048-642-6263",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "庄や大宮南口店",
+    "address": "さいたま市大宮区大門町1-72-2豊栄ビルＢ1Ｆ",
+    "phone_number": "048-644-2679",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "旬鮮酒場天狗　大宮西口店",
+    "address": "さいたま市大宮区桜木町1－1-27小暮ﾋﾞﾙB1F",
+    "phone_number": "048-648-4081",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "旬菜家介大宮店",
+    "address": "さいたま市大宮区宮町1-97-2二葉ビル2階",
+    "phone_number": "048-648-7565",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "酒味処　串八丁",
+    "address": "さいたま市大宮区下町1-43南銀プラザビル1F",
+    "phone_number": "048-645-0948",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "酒蔵栄楽",
+    "address": "さいたま市大宮区桜木町2-159安田ビル２階",
+    "phone_number": "048-644-7461",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "七伍",
+    "address": "さいたま市大宮区下町1-40-1鈴木ビル２FA号室",
+    "phone_number": "048-657-8563",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "自家製うどん　縁尽",
+    "address": "さいたま市大宮区桜木町2－297－3桜ビル1F",
+    "phone_number": "048-779-8980",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "旨し酒　旨し肴　はな穂",
+    "address": "さいたま市大宮区桜木町2-2-3第二サン企画ビル2階",
+    "phone_number": "048-641-7990",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "三代目網元魚鮮水産大宮西口店",
+    "address": "さいたま市大宮区桜木町1-5-5ホームリィ5ビルB1F",
+    "phone_number": "048-657-2777",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "雑魚や　基",
+    "address": "さいたま市大宮区仲町1-48-2第２あひかビル　Ｂ１階",
+    "phone_number": "048-658-5566",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "個室居酒屋　時しらず　大宮店",
+    "address": "さいたま市大宮区大門町1-69武蔵屋ビル2階",
+    "phone_number": "048-729-5860",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "串焼こうや",
+    "address": "さいたま市大宮区仲町1-62-1",
+    "phone_number": "048-645-3939",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "串焼き髙とん",
+    "address": "さいたま市大宮区桜木町2－306山畑ビル1階",
+    "phone_number": "048－782－6946",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "串焼きうまか市場　まるし　さいたま新都心店",
+    "address": "さいたま市大宮区北袋町1-103-1中村ビル1F",
+    "phone_number": "048-783-4317",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "串カツ田中　大宮店",
+    "address": "さいたま市大宮区宮町1-77",
+    "phone_number": "048-856-9415",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "銀座ライオンLEO 大宮東口店",
+    "address": "さいたま市大宮区大門町1-17-8いろはビル１階",
+    "phone_number": "048-640-7380",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "金の蔵大宮東口駅前店",
+    "address": "さいたま市大宮区大門町1－67豊栄ビル１階",
+    "phone_number": "048-658-1350",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "金の蔵大宮すずらん通り店",
+    "address": "さいたま市大宮区大門町1-20-3角井ビル１F",
+    "phone_number": "048-650-9860",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "居酒屋たけちゃん",
+    "address": "さいたま市大宮区桜木町2-305星野店舗",
+    "phone_number": "048-644-8417",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "居酒屋しぇふずきっちん",
+    "address": "さいたま市大宮区宮町1-95  2階",
+    "phone_number": "048-641-3339",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "居酒屋いっちょやってみっか!",
+    "address": "さいたま市大宮区下町1-5-1第2マルハチビル106号",
+    "phone_number": "048-641-9191",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "居酒屋　夢だいこん",
+    "address": "さいたま市大宮区桜木町4-76大野ビル1F",
+    "phone_number": "048-648-6334",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "居酒屋　魚や",
+    "address": "さいたま市大宮区仲町1-88菊水ビル1階",
+    "phone_number": "048-641-9299",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "楽蔵大宮東口店",
+    "address": "さいたま市大宮区大門町１丁目６１－１DK大宮ビル 3F",
+    "phone_number": "048-658-0766",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "海鮮問屋地魚屋　さいたま大宮店",
+    "address": "さいたま市大宮区桜木町1-5-7ﾎｰﾑﾘｲ5ﾋﾞﾙ3F",
+    "phone_number": "048-648-1151",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "屋台屋博多劇場大宮店",
+    "address": "さいたま市大宮区仲町1-96-1OMビル1F",
+    "phone_number": "048-778-7600",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "沖縄家庭料理　うるま",
+    "address": "さいたま市大宮区桜木町1-4-5宮下ビル２階",
+    "phone_number": "048-641-7060",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "園蔵　大宮店",
+    "address": "さいたま市大宮区桜木町１-3-1宮下L2ビル３F",
+    "phone_number": "050-2018-8003",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "一軒め酒場大宮東口店",
+    "address": "さいたま市大宮区宮町1-48ジェイリート大宮1階",
+    "phone_number": "048-645-7280",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "磯丸水産大宮南銀座通り店",
+    "address": "さいたま市大宮区仲町1-21毎日会館ﾋﾞﾙ1F",
+    "phone_number": "048-657-5877",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "磯丸水産大宮西口店",
+    "address": "さいたま市大宮区桜木町2-1-17",
+    "phone_number": "048-658-5620",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "磯丸水産大宮すずらん通り店",
+    "address": "さいたま市大宮区大門町1-20-1角井ﾋﾞﾙ1･2F",
+    "phone_number": "048-658-5671",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "葵屋　大宮店",
+    "address": "さいたま市大宮区桜木町１丁目８－３ サンユ－ビル 9階",
+    "phone_number": "048-645-0320",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "ろばた焼北海",
+    "address": "さいたま市大宮区仲町1-50福田ビル1F",
+    "phone_number": "048-647-2525",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "ろばた焼きほっかいや",
+    "address": "さいたま市大宮区仲町１－５０福田産業ビル1F",
+    "phone_number": "048-644-9118",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "りくぜん本店",
+    "address": "さいたま市大宮区宮町2-48",
+    "phone_number": "048-644-0370",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "やきとり家すみいち",
+    "address": "さいたま市大宮区大門町1-29ＯＭビル地下1階",
+    "phone_number": "048-729-4901",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "やきとりｾﾝﾀｰ 大宮東口店",
+    "address": "さいたま市大宮区宮町1-9湯沢ビルB1F",
+    "phone_number": "048-640-4866",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "ベス　大宮店",
+    "address": "さいたま市大宮区桜木町１-3-1宮下L2ビル 4F",
+    "phone_number": "050-2018-8002",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "博多もつ鍋と溶岩ホルモン焼き　華雫",
+    "address": "さいたま市大宮区桜木町1-1-17トリムビル6F",
+    "phone_number": "048-640-5429",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "博多水炊き　鶏料理と九州の恵み　可士和（カシワ）",
+    "address": "さいたま市大宮区桜木町1-1-17トリムビル5F",
+    "phone_number": "048-640-5480",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "なつかし家",
+    "address": "さいたま市大宮区宮町1-71",
+    "phone_number": "048-649-0777",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "鳥貴族　大宮東口店",
+    "address": "さいたま市大宮区大門町1丁目93番地大宮大門町ﾋﾞﾙ6階",
+    "phone_number": "048-782-6977",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "鳥貴族　大宮西口店",
+    "address": "さいたま市大宮区桜木町2-4-17-4F",
+    "phone_number": "048-871-5722",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "鳥貴族　大宮宮町店",
+    "address": "さいたま市大宮区宮町1丁目86番地1大宮イーストビル1階",
+    "phone_number": "048-779-8622",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "鳥貴族　さいたま新都心店",
+    "address": "さいたま市大宮区吉敷町4丁目248番地1町田ビル3階",
+    "phone_number": "048-783-2900",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "鳥彩々大宮東口仲町店",
+    "address": "さいたま市大宮区仲町1丁目21-2南銀ビル",
+    "phone_number": "048-650-0710",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "トサカモミジ大宮店",
+    "address": "さいたま市大宮区仲町1-1-1大宮タウンビル6F",
+    "phone_number": "048-640-4338",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "テング酒場　大宮そごう前店",
+    "address": "さいたま市大宮区桜木町1-4-2ジェルパビルB1F",
+    "phone_number": "048-788-3142",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "テング酒場　大宮すずらん通り店",
+    "address": "さいたま市大宮区大門町1-19-1アルシェ・キューブワン2F",
+    "phone_number": "048-782-9444",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "テング酒場　ニュー大宮店",
+    "address": "さいたま市大宮区宮町1－42藤堂ｾﾝﾄﾗﾙﾋﾞﾙ1F",
+    "phone_number": "048-644-8396",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "神戸焼鳥つくねや大宮店　鶏だしおでん",
+    "address": "さいたま市大宮区大門町2-117",
+    "phone_number": "048-788-3830",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "築地銀だこハイボール酒場　大宮店",
+    "address": "さいたま市大宮区大門町1丁目18",
+    "phone_number": "048-650-8815",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "塚田農場　大宮東口店",
+    "address": "さいたま市大宮区宮町1-17飯田ビル1階",
+    "phone_number": "048-650-2207",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "塚田農場　大宮西口店",
+    "address": "さいたま市大宮区桜木町1-1-17トリムビル3F",
+    "phone_number": "048-658-7720",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "だん家　大宮店",
+    "address": "さいたま市大宮区大門町1-18キムラヤビル1F",
+    "phone_number": "048-778-7021",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "すし酒家一歩",
+    "address": "さいたま市大宮区宮町1-35-2パイオランドホテル地下1階",
+    "phone_number": "048-788-1039",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "庄や　大宮東口店",
+    "address": "さいたま市大宮区宮町2-28あじせんビル1階",
+    "phone_number": "048-645-8713",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "庄や　大宮西口店",
+    "address": "さいたま市大宮区桜木町2-65DOM2号館1階",
+    "phone_number": "048-645-7230",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "四十八漁場　大宮西口店",
+    "address": "さいたま市大宮区桜木町1-1-17トリムビル4F",
+    "phone_number": "048-640-7733",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "さくら水産　大宮西口店",
+    "address": "さいたま市大宮区桜木町1-8-3サンユービル2F",
+    "phone_number": "048-650-0885",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "魚盛さいたま新都心コクーンシティ",
+    "address": "さいたま市大宮区吉敷町4-267コクーンシティ　コクーン1　北館2F",
+    "phone_number": "048-601-2306",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "魚盛大宮",
+    "address": "さいたま市大宮区桜木町1丁目5-7ホームリィー5ビル4F",
+    "phone_number": "048-631-1501",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "串焼亭ねぎ　大宮東口店",
+    "address": "さいたま市大宮区仲町2-41",
+    "phone_number": "048-788-2699",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "串焼亭ねぎ　大宮西口店",
+    "address": "さいたま市大宮区桜木町2-191-6",
+    "phone_number": "048-645-8878",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "くいもの屋わん 大宮南銀通り店",
+    "address": "さいたま市大宮区仲町1-24オリンピアビル 2F",
+    "phone_number": "048-631-1222",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "くいもの屋わん 大宮西口店",
+    "address": "さいたま市大宮区桜木町1-8-3三有ビル　８F",
+    "phone_number": "048-650-6855",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "くいもの屋わん　大宮すずらん通り店",
+    "address": "さいたま市大宮区大門町1-17　丸藤ビル２F",
+    "phone_number": "048-658-6636",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "きじま屋",
+    "address": "さいたま市大宮区下町1-5-1第2マルハチビル105",
+    "phone_number": "048-644-0270",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "かしら屋南銀店",
+    "address": "さいたま市大宮区仲町1-41",
+    "phone_number": "048-647-0690",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "かしら屋大宮東口店",
+    "address": "さいたま市大宮区宮町1-39",
+    "phone_number": "048-648-0100",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "かしら屋大宮西口新店2F",
+    "address": "さいたま市大宮区桜木町2-2-92F",
+    "phone_number": "048-644-5156",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "かしら屋大宮西口新店",
+    "address": "さいたま市大宮区桜木町2-2-9",
+    "phone_number": "048-644-5156",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "かしら屋西口店",
+    "address": "さいたま市大宮区桜木町1-3-1宮下L2ビルB1F",
+    "phone_number": "048-647-0623",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "カインドハウス膳　大宮西口店",
+    "address": "さいたま市大宮区桜木町1-4-2JLPAビル3階",
+    "phone_number": "048-642-8009",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "お多幸　大宮東口店",
+    "address": "さいたま市大宮区宮町1-48",
+    "phone_number": "048-648-2224",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "お多幸　大宮西口店",
+    "address": "さいたま市大宮区桜木町1-4-4地下1階",
+    "phone_number": "048-642-8300",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "おばんざいと串揚げ　たくみ",
+    "address": "さいたま市大宮区北袋町1-79-1",
+    "phone_number": "048-644-1124",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "おでん家万昌ぶらっせ大宮店",
+    "address": "さいたま市大宮区仲町2-55仲町ビル1階",
+    "phone_number": "048-783-5541",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "おでん家万昌ざっくばらん",
+    "address": "さいたま市大宮区宮町1-33金久保ビル1階",
+    "phone_number": "048-643-4100",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "おでんと魚菜　基",
+    "address": "さいたま市大宮区桜木町2-158-2スプリングアートビル地下1階",
+    "phone_number": "048-643-0980",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "おきなわくゎっちー処空人",
+    "address": "さいたま市大宮区宮町4-107-1",
+    "phone_number": "048-708-6724",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "ウメ子の家大宮東口店",
+    "address": "さいたま市大宮区大門町１丁目６１－１DK大宮ビル 6Ｆ",
+    "phone_number": "048-658-8155",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "うさぎや",
+    "address": "さいたま市大宮区仲町1-56はちこめビル1F",
+    "phone_number": "048-645-6193",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "魚八＆串八珍　大宮東口店",
+    "address": "さいたま市大宮区宮町1-97-2フタバビル1F",
+    "phone_number": "048-631-0029",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "いろはにほへと 大宮西口店",
+    "address": "さいたま市大宮区桜木町1-5-7　 ホームリィ5ビル6F",
+    "phone_number": "048-648-1682",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "いかの墨　大宮店",
+    "address": "さいたま市大宮区大門町1-48",
+    "phone_number": "048-783-5425",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "あら川亭",
+    "address": "さいたま市大宮区宮町4-8",
+    "phone_number": "048-647-0695",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "アカマル屋大宮一番街通り店",
+    "address": "さいたま市大宮区宮町1-77-4ラック一番街ビル 1F",
+    "phone_number": "048-640-1166",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "アカマル屋大宮すずらん通り店",
+    "address": "さいたま市大宮区大門町1-20-58角井ビルⅢ 1F",
+    "phone_number": "048-871-9396",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "赤から大宮東口店",
+    "address": "さいたま市大宮区宮町1-48ジェイ・リート大宮ビル2F",
+    "phone_number": "048-650-0011",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "KICHIRI OMIYA WEST",
+    "address": "さいたま市大宮区桜木町１丁目１－８ＯＺＳＡＫＵＲＡビル8F",
+    "phone_number": "048-650-8008",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "HUB大宮東口店",
+    "address": "さいたま市大宮区宮町1-35-2パイオランドホテル1F",
+    "phone_number": "048-645-8682",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "HUB大宮西口店",
+    "address": "さいたま市大宮区桜木町1-1-17トリムビルB1F",
+    "phone_number": "048-650-8682",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "2000円 食べ放題飲み放題 居酒屋 おすすめ屋 大宮店",
+    "address": "さいたま市大宮区仲町1-111-2マルハチビル3F",
+    "phone_number": "03-6625-4054",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "居酒屋peakあさの",
+    "address": "さいたま市大宮区桜木町4-1010-2ムサシヤビル1階",
+    "phone_number": "048-729-7686",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "スケイチ",
+    "address": "さいたま市大宮区吉敷町４-61-1オクトビル１F",
+    "phone_number": "048-658-1103",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "鳥まさ",
+    "address": "さいたま市大宮区仲町1-41アオイビル1階",
+    "phone_number": "048-647-3355",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "多雲坊",
+    "address": "さいたま市大宮区大門町2-117",
+    "phone_number": "048-645-0535",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "居酒屋　りめん",
+    "address": "さいたま市大宮区宮町1-95",
+    "phone_number": "048-641-3939",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "創造キッチン　MAZAKA",
+    "address": "さいたま市大宮区大門町2-7ヒシヤストアー4  3階",
+    "phone_number": "048-729-4677",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "魚酒場二つめ",
+    "address": "さいたま市大宮区宮町2-73-3",
+    "phone_number": "048-708-2918",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "炭火焼鳥　鳥幸",
+    "address": "さいたま市大宮区仲町1-74高野ビル2階",
+    "phone_number": "048-644-8989",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "居酒屋　かまどか大宮店",
+    "address": "さいたま市大宮区桜木町1-1-10OZSAKURA5階",
+    "phone_number": "048-783-2976",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "和食　個室居酒屋だいもん",
+    "address": "さいたま市大宮区大門町1-69武蔵屋ビル3階",
+    "phone_number": "048-788-1220",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "町夜景と完全個室居酒屋　離れ邸　大宮西口店",
+    "address": "さいたま市大宮区桜木町1-175KGビル5階",
+    "phone_number": "048-778-9589",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "山内農場　大宮西口駅前店",
+    "address": "さいたま市大宮区桜木町1-1-10ＯＺＳＡＫＵＲＡビル3階",
+    "phone_number": "048-642-9188",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "魚民　大宮東口駅前店",
+    "address": "さいたま市大宮区宮町1-49FUJIBUILDING3階",
+    "phone_number": "048-642-1888",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "魚民　大宮西口駅前店",
+    "address": "さいたま市大宮区桜木町1-1-10ＯＺＳＡＫＵＲＡビル3階",
+    "phone_number": "048-642-5388",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "白木屋　大宮東口駅前店",
+    "address": "さいたま市大宮区仲町1-1ムサシビル3階、4階",
+    "phone_number": "048-643-9588",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "和蔵",
+    "address": "さいたま市大宮区桜木町2-4-17アイダビル3階-A",
+    "phone_number": "048-788-3285",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "PALETTE",
+    "address": "さいたま市大宮区桜木町2-4-17アイダビル3階-B",
+    "phone_number": "048-788-3285",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "京隠れ",
+    "address": "さいたま市大宮区宮町1-97-2二葉ビル3階-A",
+    "phone_number": "048-657-8026",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "MEAT　IN　CRAFT",
+    "address": "さいたま市大宮区宮町1-97-2二葉ビル3階-B",
+    "phone_number": "048-657-8026",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "ほろよい酒場",
+    "address": "さいたま市大宮区宮町1-85オハナビル一階",
+    "phone_number": "048-788-4077",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "離れ邸",
+    "address": "さいたま市大宮区桜木町1-175KGビル5階-A",
+    "phone_number": "048-778-9589",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "和食HANARE",
+    "address": "さいたま市大宮区桜木町1-175KGビル5階-B",
+    "phone_number": "048-778-9589",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "鉄板奉行ふくまる",
+    "address": "さいたま市大宮区桜木町2-161-2大宮YKビルB1F",
+    "phone_number": "048-871-9360",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "よし澄　さいたま新都心店",
+    "address": "さいたま市大宮区吉敷町4-248-1町田ビル2F",
+    "phone_number": "048-871-5497",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "権助　大宮店",
+    "address": "さいたま市大宮区仲町1-60アイス大宮ビル1F",
+    "phone_number": "048-778-9791",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "一僖　大宮店",
+    "address": "さいたま市大宮区仲町1-7-2大宮ホクシンビル4F",
+    "phone_number": "048-779-8704",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "牛タン焼専門店  司分店鷹 大宮店",
+    "address": "さいたま市大宮区下町1-5-1第２マルハチビル一階",
+    "phone_number": "048-642-2217",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "居酒屋弁慶",
+    "address": "さいたま市大宮区大門町1-14",
+    "phone_number": "048-641-2455",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "すし酒場火花",
+    "address": "さいたま市大宮区仲町1-60アイスビル3階",
+    "phone_number": "048-782-7715",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "大宮牛タンいろ葉",
+    "address": "さいたま市大宮区宮町1-77-5マガザン大宮",
+    "phone_number": "048-641-5855",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "養老乃瀧　大宮西口店",
+    "address": "さいたま市大宮区桜木町2-4-25",
+    "phone_number": "048-644-8390",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "わからず屋本店",
+    "address": "さいたま市大宮区宮町1-71",
+    "phone_number": "048-649-0555",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "和皿三笑",
+    "address": "さいたま市大宮区桜木町4-40イトウ店舗",
+    "phone_number": "048-741-1737",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "一軒め酒場　大宮仲町店",
+    "address": "さいたま市大宮区仲町1-96-21F",
+    "phone_number": "048-780-2315",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "大宮牛タンいろ葉",
+    "address": "さいたま市大宮区宮町1-77-5",
+    "phone_number": "048-641-5855",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "全席個室居酒屋　昴　大宮店",
+    "address": "さいたま市大宮区宮町2-24Kビル2階",
+    "phone_number": "080-9874-2683",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "宇佐美　大宮店",
+    "address": "さいたま市大宮区宮町1-51大宮みのやﾋﾞﾙB1F",
+    "phone_number": "048-780-2322",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "Garden DaDa",
+    "address": "さいたま市大宮区宮町1-48ｼﾞｪｲﾘｰﾄ大宮5階",
+    "phone_number": "03-5985-4129",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "日本酒原価酒蔵　大宮店",
+    "address": "さいたま市大宮区仲町1-114ﾚｯﾂﾋﾞﾙB1F",
+    "phone_number": "048-871-5243",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "洋食バル　函館五島軒　ルミネ大宮店",
+    "address": "さいたま市大宮区錦町６３０ルミネ大宮２　４階",
+    "phone_number": "048-856-9029",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "南欧田舎料理タパス",
+    "address": "さいたま市大宮区大門町2-109大越ビル1階",
+    "phone_number": "048-644-5500",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "大阪バルええやん",
+    "address": "さいたま市大宮区仲町1-80-1",
+    "phone_number": "048-788-1103",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "大宮ダイニング　オモプラッタ",
+    "address": "さいたま市大宮区桜木町２－１６１－２大宮YKビル2階",
+    "phone_number": "048-796-3934",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "パレスホテル大宮バーロイヤルオーク",
+    "address": "さいたま市大宮区桜木町1-7-5",
+    "phone_number": "048-647-3300",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "ハイボール南銀座1923",
+    "address": "さいたま市大宮区仲町1-53田村ビルB１F",
+    "phone_number": "048-871-9122",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "ディプント　大宮西口店",
+    "address": "さいたま市大宮区桜木町1-1-10OZSAKURAビル2F",
+    "phone_number": "048-650-7366",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "スペインバル Ｚｉｏｎ（ザイオン）",
+    "address": "さいたま市大宮区大門町2-111-3",
+    "phone_number": "048-782-7700",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "シェフズキッチンシュン",
+    "address": "さいたま市大宮区宮町1-95",
+    "phone_number": "048-642-2212",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "カフェ&バー シーガル",
+    "address": "さいたま市大宮区宮町1-39-3",
+    "phone_number": "048-778-9006",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "ヴィーノテリア",
+    "address": "さいたま市大宮区仲町1-40三益ビル3階",
+    "phone_number": "048-642-8882",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "VOICE BAR Ｊ・ジェイ",
+    "address": "さいたま市大宮区仲町1-7-2大宮仲町ホクシンビル5F",
+    "phone_number": "048-647-0928",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "The Public stand大宮東口店",
+    "address": "さいたま市大宮区宮町1丁目71-5　マギービル 1F",
+    "phone_number": "048-782-6607",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "THE　OYSTERBAR　YUMMY　大宮店",
+    "address": "さいたま市大宮区仲町1-48-2あひか第２ビル４F",
+    "phone_number": "048-871-8345",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "sparkling hearts",
+    "address": "さいたま市大宮区宮町1-42藤堂セントラルビル３F",
+    "phone_number": "048-644-0116",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "SAKANAKANA　大宮店",
+    "address": "さいたま市大宮区宮町１丁目47番地 一番ビル 3階",
+    "phone_number": "048-783-4615",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "private restaurant 0760",
+    "address": "さいたま市大宮区宮町2-108-3",
+    "phone_number": "048-631-0760",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "MARCO1591",
+    "address": "さいたま市大宮区桜木町1-4-2ジェルパビル",
+    "phone_number": "048-871-8003",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "cafe&bar LOCKSTOCK",
+    "address": "さいたま市大宮区桜木町1-175KGビル2階",
+    "phone_number": "048-788-3144",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "BORDER",
+    "address": "さいたま市大宮区下町1-38-2F",
+    "phone_number": "048-644-7499",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "BarFive",
+    "address": "さいたま市大宮区桜木町2丁目223番地モナークヴィラ一階",
+    "phone_number": "048-644-3550",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "BAR　R",
+    "address": "さいたま市大宮区宮町1‐91‐1佐藤ビル",
+    "phone_number": "048-871-9933",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "Stand Bar Fresco大宮南銀座店",
+    "address": "さいたま市大宮区仲町1-33モンクール仲町第2ビル1階",
+    "phone_number": "048-871-7350",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "Belgian Beer Bar BARBEE'S",
+    "address": "さいたま市大宮区大門町2-25-2野原ビル2階",
+    "phone_number": "048-642-3090",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "バグース大宮店",
+    "address": "さいたま市大宮区仲町1-17大東ビル5F 6F",
+    "phone_number": "048-640-7744",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "北海道バルTOKAPU",
+    "address": "さいたま市大宮区宮町1-511番街ビル2階",
+    "phone_number": "080-7420-2902",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "ランチ & バー 422",
+    "address": "さいたま市大宮区桜木町2-238-8梨華ビル1F",
+    "phone_number": "070-3517-0422",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "ＫＩＮＧ’Ｓ　ＢＡＲ",
+    "address": "さいたま市大宮区桜木町2-158-2スプリングアートビル3階",
+    "phone_number": "048-645-3773",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "MARE di SAKAI",
+    "address": "さいたま市大宮区桜木町1-4-5",
+    "phone_number": "048-729-5557",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "鶏スタイル",
+    "address": "さいたま市大宮区桜木町2-351田中ビル1F",
+    "phone_number": "048-644-9666",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "HAMACHO",
+    "address": "さいたま市大宮区大門町1-10-2",
+    "phone_number": "048-641-0002",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "オオミヤバル",
+    "address": "さいたま市大宮区仲町2-43-1 COMO大宮 1F",
+    "phone_number": "048-783-2855",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "REGALO　大宮東口駅前店",
+    "address": "さいたま市大宮区大門町1－92大宮大門町安藤ビル6，7階",
+    "phone_number": "048-783-3636",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "サントリーバー山崎",
+    "address": "さいたま市大宮区仲町1-94東通ビル1階",
+    "phone_number": "048-644-6618",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "髙島屋大宮店美濃吉",
+    "address": "さいたま市大宮区大門町1-32",
+    "phone_number": "048-643-1111",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "鮨政　東口2号店",
+    "address": "さいたま市大宮区大門町1-11-2",
+    "phone_number": "048-657-6611",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "鮨政　東口1号店",
+    "address": "さいたま市大宮区宮町2-39-1",
+    "phone_number": "048-645-4466",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "鮨政　西口店",
+    "address": "さいたま市大宮区桜木町2－5－19",
+    "phone_number": "048-643-8080",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "鮨・DNING　月むら",
+    "address": "さいたま市大宮区仲町1-48あひか第2ビル1階",
+    "phone_number": "048-641-2888",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "萬木",
+    "address": "さいたま市大宮区下町1-40-1鈴木ビル1F",
+    "phone_number": "048-788-3616",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "和食処銀蔵　さいたま新都心店",
+    "address": "さいたま市大宮区吉敷町4-262-18さいたま新都心駅東口ビル",
+    "phone_number": "048-601-2511",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "和食山﨑",
+    "address": "さいたま市大宮区桜木町2-223モナークヴィラ1F",
+    "phone_number": "048-648-0102",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "和食こばやし",
+    "address": "さいたま市大宮区宮町1-39",
+    "phone_number": "048-644-5422",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "和幸コクーンシティさいたま新都心店",
+    "address": "さいたま市大宮区吉敷町4-267-2コクーンシティ「コクーン1」2F",
+    "phone_number": "048-600-1658",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "料亭旅館　新道山家",
+    "address": "さいたま市大宮区堀の内町３－１１０",
+    "phone_number": "080-6564-0501",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "料亭　大宮一の家",
+    "address": "さいたま市大宮区高鼻町2-276",
+    "phone_number": "048-644-0165",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "木曽路　大宮店",
+    "address": "さいたま市大宮区桜木町1丁目10-7 ",
+    "phone_number": "048-648-7111",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "美濃吉　そごう大宮店",
+    "address": "さいたま市大宮区桜木町1-6-2",
+    "phone_number": "048-646-2351",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "番や下町　地魚料理と和欧彩",
+    "address": "さいたま市大宮区下町1-38中央ハイツ一階",
+    "phone_number": "048-640-5170",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "日本料理屋 襷",
+    "address": "さいたま市大宮区仲町２丁目５７AXIS仲町ビル１F",
+    "phone_number": "048-645-7778",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "日本橋　稲庭うどんとめし　金子半之助　ルミネ大宮店",
+    "address": "さいたま市大宮区錦町630ルミネ大宮2/4階",
+    "phone_number": "048-729-5335",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "東鮨本店",
+    "address": "さいたま市大宮区大門町1-7",
+    "phone_number": "048-641-2481",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "東鮨　新店",
+    "address": "さいたま市大宮区大門町1-14",
+    "phone_number": "048-644-4400",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "伝説のすた丼屋大宮東口店",
+    "address": "さいたま市大宮区大門町1-24",
+    "phone_number": "048-782-8419",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "天一食品　そごう大宮店",
+    "address": "さいたま市大宮区桜木町1-6-2",
+    "phone_number": "048-631-1211",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "天一",
+    "address": "さいたま市大宮区桜木町1-6-2",
+    "phone_number": "048-657-7221",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "天ぷらあづま",
+    "address": "さいたま市大宮区宮町1-67大宮あづまビル1階",
+    "phone_number": "048-641-0247",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "鉄板・懐石　くら馬",
+    "address": "さいたま市大宮区三橋1-668鉄板・懐石　くら馬",
+    "phone_number": "048-780-2653",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "鉄板　せきね",
+    "address": "さいたま市大宮区仲町1-60アイスビル4F",
+    "phone_number": "050-5356-9128",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "鳥開総本家　さいたま新都心店",
+    "address": "さいたま市大宮区吉敷町4-263-1コクーン2　3階フードコート内",
+    "phone_number": "048-788-1115",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "築地玉寿司　大宮店",
+    "address": "さいたま市大宮区錦町630ルミネ大宮４F",
+    "phone_number": "048-645-5491",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "大衆割烹　甲寿司",
+    "address": "さいたま市大宮区北袋町2-383-2",
+    "phone_number": "048-643-7272",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "大戸屋ご飯処　大宮すずらん通り店",
+    "address": "さいたま市大宮区大門町1-19-1ＡＲＣＨＥ　Ｃｕｂｅ1　2階",
+    "phone_number": "048-779-8660",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "大宮　伊勢錦",
+    "address": "さいたま市大宮区高鼻町1-37-1",
+    "phone_number": "048-641-0023",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "石臼挽き手打ち蕎麦　吉草　大宮本店",
+    "address": "さいたま市大宮区宮町３－１－７HSビル1階",
+    "phone_number": "048-644-5800",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "旬鮮すしやぶき",
+    "address": "さいたま市大宮区仲町1-125-8大谷ビル202",
+    "phone_number": "048-788-2245",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "手打ち蕎麦　吉草　大宮本店",
+    "address": "さいたま市大宮区宮町3‐1‐7",
+    "phone_number": "048-644-5800",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "手打そば　大宮大村庵",
+    "address": "さいたま市大宮区高鼻町2-281",
+    "phone_number": "048-644-2480",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "四季彩卯月",
+    "address": "さいたま市大宮区桜木町1-11-1",
+    "phone_number": "048-657-1888",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "山家　本店",
+    "address": "さいたま市大宮区大門町1-24",
+    "phone_number": "048-641-0158",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "玄米食堂あえん　エキュート大宮店",
+    "address": "さいたま市大宮区錦町630JR東日本　大宮駅構内",
+    "phone_number": "048-648-8750",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "玄品 大宮",
+    "address": "さいたま市大宮区桜木町2-158-22F",
+    "phone_number": "048-644-5329",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "魚べい桜木町店",
+    "address": "さいたま市大宮区桜木町4-448-1",
+    "phone_number": "048-647-2551",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "牛兵衛　草庵そごう大宮店",
+    "address": "さいたま市大宮区桜木町1-6-2",
+    "phone_number": "048-640-1129",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "久鮨",
+    "address": "さいたま市大宮区大成町3-543-1舟木ビル1階",
+    "phone_number": "048-653-1144",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "季節料理和色",
+    "address": "さいたま市大宮区大門町2-4小倉ビル1階",
+    "phone_number": "048-658-1234",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "割烹　鈴善",
+    "address": "さいたま市大宮区仲町１－94もりくまビル２Ｆ",
+    "phone_number": "048-644-9919",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "歌行燈　ゑべっさん　そごう大宮店",
+    "address": "さいたま市大宮区桜木町1-6-2",
+    "phone_number": "048-658-5811",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "永坂更科布屋太兵衛　そごう大宮店",
+    "address": "さいたま市大宮区桜木町1-6-2",
+    "phone_number": "048-646-2595",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "一心寿司",
+    "address": "さいたま市大宮区天沼町2丁目727-22",
+    "phone_number": "048-644-4110",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "一汁一菜ごはん 御御御",
+    "address": "さいたま市大宮区錦町630番地ﾙﾐﾈ大宮2-4F",
+    "phone_number": "048-631-1030",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "伊勢錦",
+    "address": "さいたま市大宮区高鼻町1-37-1",
+    "phone_number": "048-641-0023",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "ろばたトせいろト酒　点ス",
+    "address": "さいたま市大宮区仲町1-33-4逸志ビル1階",
+    "phone_number": "048-643-6801",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "パレスホテル大宮和食堂欅",
+    "address": "さいたま市大宮区桜木町1-7-5",
+    "phone_number": "048-647-3300",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "はま寿司大宮ラクーン店",
+    "address": "さいたま市大宮区宮町1-60",
+    "phone_number": "048-657-6211",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "とんかつ割烹山下軒",
+    "address": "さいたま市大宮区仲町2丁目33-1",
+    "phone_number": "048-641-0167",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "とろ麦　大宮マルイ店",
+    "address": "さいたま市大宮区桜木町2-3大宮マルイ7F",
+    "phone_number": "048-788-1706",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "とらふぐ亭　大宮店",
+    "address": "さいたま市大宮区仲町1-78ガルボ仲町1F",
+    "phone_number": "048-640-5129",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "すし波奈　そごう大宮店",
+    "address": "さいたま市大宮区桜木町1-6-2",
+    "phone_number": "048-642-0087",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "さんるーむ　そごう大宮店",
+    "address": "さいたま市大宮区桜木町1-6-2",
+    "phone_number": "048-640-1080",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "こめらく　みんなで、お茶漬け日和。コクーンシティ店",
+    "address": "さいたま市大宮区吉敷町4-263-1コクーンシティ　コクーン23Fコクーンキッチン",
+    "phone_number": "048-657-8889",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "きづなすし大宮南銀座通り店",
+    "address": "さいたま市大宮区仲町1-15VORT大宮1F",
+    "phone_number": "048-657-7571",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "かのうや",
+    "address": "さいたま市大宮区吉敷町４丁目１０１",
+    "phone_number": "048-650-0503",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "かつ友　そごう大宮店",
+    "address": "さいたま市大宮区桜木町1-6-2",
+    "phone_number": "048-641-8741",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "海鮮三崎港　大宮東口店",
+    "address": "さいたま市大宮区大門町1-94",
+    "phone_number": "048-779-8835",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "お料理　きみしま",
+    "address": "さいたま市大宮区仲町3-105-1千鳥ビル1階",
+    "phone_number": "048-788-3220",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "お出汁とお魚　suzu-no-ne",
+    "address": "さいたま市大宮区仲町2-9EAST201シロタビル",
+    "phone_number": "048-778-7746",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "お好み焼き　利休　大宮店",
+    "address": "さいたま市大宮区桜木町2-4-7リトルサンシャインビル5F",
+    "phone_number": "048-782-4229",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "お好み焼　利休　さいたま新都心店",
+    "address": "さいたま市大宮区北袋町1-82産晃ビル１F",
+    "phone_number": "048-607-5500",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "おぼんdeごはん　コクーンシティ店",
+    "address": "さいたま市大宮区吉敷町4-263-1コクーンシティ",
+    "phone_number": "048-788-1196",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "大宮甲羅本店",
+    "address": "さいたま市大宮区桜木町4-489-1",
+    "phone_number": "048-649-5522",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "江戸前がってん寿司大宮東口店",
+    "address": "さいたま市大宮区大門町1-2",
+    "phone_number": "048-658-0777",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "磯のがってん寿司コクーン新都心店",
+    "address": "さいたま市大宮区吉敷町4-267カタクラ新都心モールコクーン内2F28区画",
+    "phone_number": "048-829-7115",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "kirara風月　そごう大宮店",
+    "address": "さいたま市大宮区桜木町1-6-2",
+    "phone_number": "048-642-9692",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "BuonViaggio",
+    "address": "さいたま市大宮区宮町1-5銀座ビルB1",
+    "phone_number": "048-631-3666",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "串揚げ専門店　紀の川",
+    "address": "さいたま市大宮区仲町2-51第二東海ビル1F",
+    "phone_number": "048-607-7981",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "広島風お好み焼きやまや",
+    "address": "さいたま市大宮区桜木町1-1-5山中ビルB1F",
+    "phone_number": "048-642-2170",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "肉割烹 喰心",
+    "address": "さいたま市大宮区仲町1-97-1吉建ビルＢ1Ｆ",
+    "phone_number": "048-658-2880",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "寅福　ルミネ大宮店",
+    "address": "さいたま市大宮区錦町630ルミネ大宮　ルミネ2　4階",
+    "phone_number": "048-631-3800",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "料理処いなみ",
+    "address": "さいたま市大宮区大門町1-23",
+    "phone_number": "048-641-2189",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "酒と魚　　五臓六腑",
+    "address": "さいたま市大宮区吉敷町1-108-2アストル吉敷 1F",
+    "phone_number": "048-708-2598",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "賛SUN",
+    "address": "さいたま市大宮区大門町2-7",
+    "phone_number": "048-782-4703",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "大戸屋ごはん処コクーンシティ店",
+    "address": "さいたま市大宮区吉敷町4-267-2外　コクーンシティ１北館2F",
+    "phone_number": "048-711-5355",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "築地すし兆エキュート大宮店",
+    "address": "さいたま市大宮区錦町630エキュート大宮店中央改札（南）内",
+    "phone_number": "048-648-8674",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "魚匠　基",
+    "address": "さいたま市大宮区大門町2-23",
+    "phone_number": "048-648-5866",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "江戸・小料理　桃栗",
+    "address": "さいたま市大宮区宮町1-95",
+    "phone_number": "048-783-2988",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "蕎麦・酒房　桃栗あん",
+    "address": "さいたま市大宮区大門町2-108-4",
+    "phone_number": "048-788-1578",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "桃栗別家　柿八",
+    "address": "さいたま市大宮区大門町2-108-4/2F",
+    "phone_number": "048-782-4439",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "鮨ダイニング鮮助",
+    "address": "さいたま市大宮区宮町３－１１－５",
+    "phone_number": "０４８－６４５－０７７０",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "烏賊・鮨ダイニング鮮助　西口店",
+    "address": "さいたま市大宮区桜木町２－２２０－２",
+    "phone_number": "０４８－７７８－９９３９",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "しゃぶしゃぶ温野菜大宮西口店",
+    "address": "さいたま市大宮区桜木町1－1－10OZ　SAKURAビル5階",
+    "phone_number": "048-783-2926",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "しゃぶしゃぶ温野菜大宮東口店",
+    "address": "さいたま市大宮区宮町2－13－1第12松ビル2階",
+    "phone_number": "048-640-2729",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "すし　堺",
+    "address": "さいたま市大宮区桜木町1-193-1オオミヤYOKOビル１・２階",
+    "phone_number": "048-642-5550",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "おにぎり処えんむすび　大宮店",
+    "address": "さいたま市大宮区錦町630北口改札内3F",
+    "phone_number": "048-650-3650",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "黒ぶたや　ルミネ大宮店",
+    "address": "さいたま市大宮区錦町630ルミネ大宮2‐4階",
+    "phone_number": "048-643-8832",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "魚処木の花",
+    "address": "さいたま市大宮区宮町1-44",
+    "phone_number": "048-647-2607",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "うな鐵　大宮店",
+    "address": "さいたま市大宮区宮町1-31",
+    "phone_number": "048-641-9355",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "一樹",
+    "address": "さいたま市大宮区下町1-32",
+    "phone_number": "048-871-7810",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "来来軒　大宮南銀座店",
+    "address": "さいたま市大宮区仲町1-62-1",
+    "phone_number": "048-650-2332",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "来来軒　大宮西口店",
+    "address": "さいたま市大宮区桜木町2-4-25",
+    "phone_number": "048-650-2328",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "来来軒　大宮ウエストサイド通店",
+    "address": "さいたま市大宮区大門町1-1",
+    "phone_number": "048-650-2112",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "日高屋　大宮中央店",
+    "address": "さいたま市大宮区大門町2-93",
+    "phone_number": "048-657-4438",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "日高屋　大宮西口店",
+    "address": "さいたま市大宮区桜木町1-4-7曙ﾋﾞﾙ",
+    "phone_number": "048-650-1021",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "日高屋　大宮三橋２丁目店",
+    "address": "さいたま市大宮区三橋2-340",
+    "phone_number": "048-650-2072",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "日高屋　大宮すずらん通店",
+    "address": "さいたま市大宮区大門町1-19",
+    "phone_number": "048-644-6118",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "日高屋　大宮DOM店",
+    "address": "さいたま市大宮区桜木町2-3大宮DOMB1",
+    "phone_number": "048-640-6600　",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "日高屋　コクーンシティ店",
+    "address": "さいたま市大宮区吉敷町4-263-8ﾊﾟｰｸｻｲﾄﾞﾋﾞﾙ1階",
+    "phone_number": "048-658-3577",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "東天紅ＪＡＣＫ大宮店",
+    "address": "さいたま市大宮区錦町682-2JACK大宮（大宮情報文化センター）18階",
+    "phone_number": "048-647-0080",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "東晶大飯店",
+    "address": "さいたま市大宮区宮町2-28あじせんビル３階",
+    "phone_number": "048-644-0881",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "登竜門",
+    "address": "さいたま市大宮区仲町１丁目１２５－１２",
+    "phone_number": "048-783--2611",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "天津飯店　さいたま新都心店",
+    "address": "さいたま市大宮区吉敷町４－２６３－１コクーンシティ2　1階",
+    "phone_number": "048-788-1055",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "中華料理香迪",
+    "address": "さいたま市大宮区大門町3-37",
+    "phone_number": "048-729-6197",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "中華居酒屋餃子酒場永順大宮一番街店",
+    "address": "さいたま市大宮区宮町1-82大宮河西ビル1F",
+    "phone_number": "048-641-0888",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "中華一番  大宮東口店",
+    "address": "さいたま市大宮区宮町1-47一番ﾋﾞﾙ1階",
+    "phone_number": "048-650-2065",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "大衆酒場HIDAKA　南銀座店",
+    "address": "さいたま市大宮区仲町１丁目７－２",
+    "phone_number": "048-641-1890",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "青蓮大宮西口店",
+    "address": "さいたま市大宮区桜木町１－１０－１８シーノ大宮センタープラザ１F",
+    "phone_number": "048-871-8489",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "焼鳥日高　大宮一番街店",
+    "address": "さいたま市大宮区宮町1-83-2第2栗友ﾋﾞﾙ",
+    "phone_number": "048-641-3051",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "焼鳥日高　大宮すずらん通店",
+    "address": "さいたま市大宮区大門町1-20-1",
+    "phone_number": "048-644-2618",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "順順餃子酒場",
+    "address": "さいたま市大宮区大門町1-19角井ビル2F",
+    "phone_number": "048-645-9888",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "香港食源",
+    "address": "さいたま市大宮区土手町3-8加藤ビル1F",
+    "phone_number": "048-642-7598",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "香港蒸籠　大宮店",
+    "address": "さいたま市大宮区桜木町1-6-2そごう大宮店9階",
+    "phone_number": "048-631-2771",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "香港蒸籠",
+    "address": "さいたま市大宮区桜木町1-6-2",
+    "phone_number": "048-631-2771",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "紅虎餃子房　さいたま新都心",
+    "address": "さいたま市大宮区吉敷町4-267-2コクーン新都心2F",
+    "phone_number": "048-600-1586",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "銀座アスター四季彩　大宮そごう店",
+    "address": "さいたま市大宮区桜木町1-6-2",
+    "phone_number": "048-631-1877",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "らぅ麺ガラ喰楽学校",
+    "address": "さいたま市大宮区桜木町1-4-3いちまるきゅうビル1階",
+    "phone_number": "048-649-7117",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "むーんしゃいん",
+    "address": "さいたま市大宮区大門町2-113-3",
+    "phone_number": "048-643-2674",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "マロウドイン大宮",
+    "address": "さいたま市大宮区桜木町2-173",
+    "phone_number": "048-645-5111",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "パレスホテル大宮中国料理瑞麟",
+    "address": "さいたま市大宮区桜木町1-7-5",
+    "phone_number": "048-647-3300",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "シーアン　大宮店",
+    "address": "さいたま市大宮区大門町2-25-3リノヤビル",
+    "phone_number": "048-658-8711",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "かにチャーハンの店エキュート大宮店",
+    "address": "さいたま市大宮区錦町６３０JR大宮駅構内エキュート大宮",
+    "phone_number": "048-648-8762",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "海鮮・肉　中華茗菜　裕宴コクーンシティ店",
+    "address": "さいたま市大宮区吉敷町4丁目263-1",
+    "phone_number": "048-657-8926",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "GYOZAOHSHO大宮駅西口店",
+    "address": "さいたま市大宮区桜木町2-5-7",
+    "phone_number": "048-644-3755",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "【石庫門】ルミネ大宮店",
+    "address": "さいたま市大宮区錦町630ルミネ大宮店ルミネ24F",
+    "phone_number": "048-640-6666",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "餃子の王将　大宮三橋店",
+    "address": "さいたま市大宮区三橋4-15-1",
+    "phone_number": "048-788-3203",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "香福園",
+    "address": "さいたま市大宮区仲町2-42セッテ・イン大宮二階",
+    "phone_number": "048-871-9994",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "麺屋酒場まる本店",
+    "address": "さいたま市大宮区仲町1-95南銀ﾋﾞﾙ1F",
+    "phone_number": "048-645-0290",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "髙島屋大宮店リビエラ",
+    "address": "さいたま市大宮区大門町1-32",
+    "phone_number": "048-643-1111",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "髙島屋大宮店トリコロール",
+    "address": "さいたま市大宮区大門町1-32",
+    "phone_number": "048-643-1111",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "髙島屋大宮店シェ・シブヤ",
+    "address": "さいたま市大宮区大門町1-32",
+    "phone_number": "048-643-1111",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "髙島屋大宮店キャピタルコーヒー",
+    "address": "さいたま市大宮区大門町1-32",
+    "phone_number": "048-643-1111",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "珈琲専門館 BEANS",
+    "address": "さいたま市大宮区大門町2-26鍵利ビル一階",
+    "phone_number": "048-641-7787",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "令日茶屋　大宮店",
+    "address": "さいたま市大宮区宮町2-3-1第二大矢部ビル1階",
+    "phone_number": "048-856-9906",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "薬糧開発(株) cingro organic salad&cafe そごう大宮店",
+    "address": "さいたま市大宮区桜木町1-6-2",
+    "phone_number": "048-788-1660",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "東毛酪農63℃ コクーンシティ店",
+    "address": "さいたま市大宮区吉敷町４－２６7－2コクーンシティ　コクーン１　２Ｆ ",
+    "phone_number": "048-767-3863",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "星乃珈琲店大宮東口店",
+    "address": "さいたま市大宮区大門町1-19-1アルシェキューブ2階",
+    "phone_number": "048-776-9760",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "神田伯刺西爾",
+    "address": "さいたま市大宮区桜木町1-6-2",
+    "phone_number": "048-646-2111（代表）",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "常盤珈琲焙煎所コクーンシティ店",
+    "address": "さいたま市大宮区吉敷町4-263-1コクーン3",
+    "phone_number": "048-729-6663",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "京は　やしや　そごう大宮店 ",
+    "address": "さいたま市大宮区桜木町1-6-2",
+    "phone_number": "048-782-8857",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "甘味処鎌倉 大宮一の宮通り店",
+    "address": "さいたま市大宮区宮町2-5宮下ビル1階",
+    "phone_number": "048-788-3283",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "甘味処　駿河屋　そごう大宮店",
+    "address": "さいたま市大宮区桜木町1-6-2",
+    "phone_number": "048-645-0355",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "甘味屋田むらルミネ店",
+    "address": "さいたま市大宮区錦町630ルミネ2-4F",
+    "phone_number": "048-645-7355",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "ラ・メゾン アンソレイユターブル ルミネ大宮店",
+    "address": "さいたま市大宮区錦町630ルミネ大宮ルミネ25F",
+    "phone_number": "048-646-3309",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "ユーシーシーカフェメルカード　そごう大宮店",
+    "address": "さいたま市大宮区桜木町1-6-2",
+    "phone_number": "048-648-1328",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "パレスホテル大宮ラウンジサロンドゥカフェ",
+    "address": "さいたま市大宮区桜木町1-7-5",
+    "phone_number": "048-647-3300",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "常盤珈琲焙煎所大宮氷川参道店",
+    "address": "さいたま市大宮区高鼻町1-173-2",
+    "phone_number": "048-783-4883",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "スイーツパラダイス　丸井大宮店",
+    "address": "さいたま市大宮区桜木町2-3丸井大宮7F",
+    "phone_number": "048-648-5552",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "常磐珈琲焙煎所",
+    "address": "さいたま市大宮区桜木町2-2-10",
+    "phone_number": "048-614-8787",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "コラソンカフェ大宮店",
+    "address": "さいたま市大宮区錦町６３０",
+    "phone_number": "048-643-5256",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "こなな ルミネ大宮店",
+    "address": "さいたま市大宮区錦町630ルミネ2 1F",
+    "phone_number": "048-783-4001",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "カフェ風屋",
+    "address": "さいたま市大宮区上小町603-3",
+    "phone_number": "048-648-7333",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "カフェドチュラ",
+    "address": "さいたま市大宮区桜木町1-10-18シーノ大宮センタープラザ１階",
+    "phone_number": "048-641-9998",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "カフェデリツィアさいたま新都心店",
+    "address": "さいたま市大宮区吉敷町4‐26－2コクーン１東館１階",
+    "phone_number": "048-601-0633",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "カフェ・アドレス ルミネ大宮店",
+    "address": "さいたま市大宮区錦町630ルミネ大宮ルミネ16F",
+    "phone_number": "048-776-9731",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "カフェ　ティンバーハウス",
+    "address": "さいたま市大宮区錦町630JR大宮駅構内　エキュート大宮",
+    "phone_number": "048-643-0300",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "カスカード　大宮マルイ店",
+    "address": "さいたま市大宮区桜木町2丁目3大宮マルイ",
+    "phone_number": "048-871-7801",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "エプロントルミネ大宮店",
+    "address": "さいたま市大宮区錦町630ルミネ大宮店L2-2F",
+    "phone_number": "048-645-3577",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "アロハテーブル ルミネ大宮",
+    "address": "さいたま市大宮区錦町630ルミネ大宮店ルミネ2 4F",
+    "phone_number": "048-658-0575",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "WIRED CAFE ルミネ大宮店",
+    "address": "さいたま市大宮区錦町630ルミネ2-3F",
+    "phone_number": "048-648-3060",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "We CAFF DA PRONTOILBARエキュート大宮店",
+    "address": "さいたま市大宮区錦町630大宮駅構内エキュート大宮",
+    "phone_number": "048-648-8818",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "THE ALLEY ルミネ大宮店",
+    "address": "さいたま市大宮区錦町630ルミネ大宮店 ルミネ2 1F",
+    "phone_number": "048-780-2082",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "N’sdoll&cafe",
+    "address": "さいたま市大宮区三橋3-232-1",
+    "phone_number": "048-708-2683",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "HoneyHoney大宮店",
+    "address": "さいたま市大宮区大門町1-122F",
+    "phone_number": "048-642-1101",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "cafe　EST",
+    "address": "さいたま市大宮区高鼻町1丁目56番地　NRK大宮１F",
+    "phone_number": "048-708-5284",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "Cafe Dining ALTERNATIVE LOUNGE",
+    "address": "さいたま市大宮区宮町4-2大宮田中第二ビル1F",
+    "phone_number": "048-788-2417",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "book&cafe ucc 大宮店",
+    "address": "さいたま市大宮区桜木町1-6-2",
+    "phone_number": "048-631-2181",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "Art　cafe　Linden",
+    "address": "さいたま市大宮区堀の内町3-359-17",
+    "phone_number": "048-646-0876",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "幸せのパンケーキ　大宮店",
+    "address": "さいたま市大宮区桜木町2-1-1大宮アルシェB1",
+    "phone_number": "048-644-5281",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "はなまめカフェ",
+    "address": "さいたま市大宮区三橋2-903-2",
+    "phone_number": "048-871-8186",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "Cafe Restaurant Orange",
+    "address": "さいたま市大宮区櫛引町1-774-41階店舗",
+    "phone_number": "048-871-5706",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "生豆焙煎工房まめや弎",
+    "address": "さいたま市大宮区桜木町3-113山本荘1-B",
+    "phone_number": "048-708-1363",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "スープストックトーキョー　ルミネ大宮店",
+    "address": "さいたま市大宮区錦町630ルミネ2　1F",
+    "phone_number": "048-788-1870",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "ブルーバードカフェ",
+    "address": "さいたま市大宮区寿能町1-16-11",
+    "phone_number": "080-5530-3894",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "お菓子やさん工房本店",
+    "address": "さいたま市大宮区北袋町1-130-9",
+    "phone_number": "048-647-8805",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "お菓子やさんコクーンシティ店",
+    "address": "さいたま市大宮区吉敷町4-263-1",
+    "phone_number": "048-788-1111",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "大宮コーヒーロースターズ",
+    "address": "さいたま市大宮区桜木町1-160",
+    "phone_number": "048-644-6851",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "MOMI&TOY'S ICE さいたま新都心コクーンシティ店",
+    "address": "さいたま市大宮区吉敷町4-263-1 コクーン2 1F",
+    "phone_number": "048-778-9173",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "ピアーズカフェ　大宮店",
+    "address": "さいたま市大宮区大門町2-83熊谷ビル１F",
+    "phone_number": "048-871-6622",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "クリスピー・クリーム・ドーナツ大宮ルミネ店",
+    "address": "さいたま市大宮区錦町630ルミネ大宮2.1階",
+    "phone_number": "048-640-7000",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "猫カフェMOCHA　アルシェ大宮店",
+    "address": "さいたま市大宮区桜木町2-1-1アルシェ　５F",
+    "phone_number": "048-779-8822",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "LyonWellfield Cafe",
+    "address": "さいたま市大宮区桜木町4-928",
+    "phone_number": "048-643-4445",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "カフェタマ",
+    "address": "さいたま市大宮区吉敷町4丁目57-3",
+    "phone_number": "080-3348-5973",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "ベックスコーヒーショップ　さいたま新都心店",
+    "address": "さいたま市大宮区吉敷町4丁目57-3",
+    "phone_number": "080-3723-2396",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "キッズカフェ",
+    "address": "さいたま市大宮区大成町3丁目47-番",
+    "phone_number": "090-6477-6561",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "ベックスコーヒーショップ大宮北口店",
+    "address": "さいたま市大宮区錦町630番地　JR大宮駅北口改札内",
+    "phone_number": "048-631-1460",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "デイジイecute大宮",
+    "address": "さいたま市大宮区錦町630番地　JR大宮駅南口改札内　エキュート大宮内",
+    "phone_number": "090-6549-2778",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "伊勢屋",
+    "address": "さいたま市大宮区仲町3-133",
+    "phone_number": "048-641-6518",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "タリーズコーヒー大宮ソニックシティ",
+    "address": "さいたま市大宮区桜木町1-7-5大宮ソニックシティー2F",
+    "phone_number": "048-658-5020",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "タリーズコーヒールミネ大宮",
+    "address": "さいたま市大宮区錦町630ルミネ大宮LUMINE2-1F（改札内）",
+    "phone_number": "048-782-7940",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "春水堂　ルミネ大宮店",
+    "address": "さいたま市大宮区錦町630ルミネ大宮１　２階",
+    "phone_number": "048-782-6020",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "アフタヌーンティー・ティールーム　ルミネ大宮店",
+    "address": "さいたま市大宮区錦町630ルミネ大宮２1階",
+    "phone_number": "048-650-0883",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "サザコーヒー大宮店",
+    "address": "さいたま市大宮区錦町587エキュート大宮",
+    "phone_number": "048-648-8737",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "氷川だんご屋",
+    "address": "さいたま市大宮区高鼻町2-12",
+    "phone_number": "048-644-3782",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "kawara CAFE＆DINING 大宮店",
+    "address": "さいたま市大宮区桜木町2-3DOMｼｮｯﾋﾟﾝｸﾞｾﾝﾀｰPART1 B1F",
+    "phone_number": "048-729-5699",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "スクロップ　コーヒー　ロースターズ",
+    "address": "さいたま市大宮区桜木町2-3大宮ﾏﾙｲ1F",
+    "phone_number": "048-642-0101",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "カフェ・ベローチェ大宮店",
+    "address": "さいたま市大宮区桜木町1-11-1YK-10ﾋﾞﾙ1F",
+    "phone_number": "048-650-6005",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "カフェ・ベローチェ大宮大門町店",
+    "address": "さいたま市大宮区大門町2-22-1TAiGAﾋﾞﾙB1",
+    "phone_number": "048-644-4561",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "髙島屋大宮店四国大名",
+    "address": "さいたま市大宮区大門町1-32",
+    "phone_number": "048-643-1111",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "洋麺屋五右衛門ルミネ大宮店",
+    "address": "さいたま市大宮区錦町630ルミネ2-4F",
+    "phone_number": "048-648-041",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "中華そば　青葉　大宮店",
+    "address": "さいたま市大宮区宮町1-71-9木村ビル1F ",
+    "phone_number": "048-648-5758",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "大宮手打ちそば　吉敷末広",
+    "address": "さいたま市大宮区吉敷町4-134",
+    "phone_number": "048-642-6105",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "清月",
+    "address": "さいたま市大宮区櫛引町1-86",
+    "phone_number": "048-663-1167",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "煮干し中華そば　麺屋一禾",
+    "address": "さいたま市大宮区大門町2-15-2",
+    "phone_number": "048-871-9991",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "三幸",
+    "address": "さいたま市大宮区堀の内町2丁目27番地",
+    "phone_number": "048-641-3519",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "蕎麦処ゆたか",
+    "address": "さいたま市大宮区寿能町１－２５－１前場ビル１０３号",
+    "phone_number": "048-776-9634",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "横浜らぁめん　桜花",
+    "address": "さいたま市大宮区桜木町2-192岡田ビル1階",
+    "phone_number": "048-649-0017",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "奥信州",
+    "address": "さいたま市大宮区高鼻町2-320-53",
+    "phone_number": "048-644-8606",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "リンガーハット大宮天沼店",
+    "address": "さいたま市大宮区天沼町2-540-1",
+    "phone_number": "048-644-5053",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "へぎそば越後",
+    "address": "さいたま市大宮区仲町1-60アイスビル２階",
+    "phone_number": "048-644-5781",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "スパゲッティーのパンチョ 大宮店",
+    "address": "さいたま市大宮区桜木町2-2-3第２サン企画ビル１階",
+    "phone_number": "048-614-6850",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "IPPUDO RAMEN EXPRESS コクーンシティ店",
+    "address": "さいたま市大宮区吉敷町4-263-1コクーンシティ３F　フードコート内",
+    "phone_number": "048-788-1231",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "宮武　コクーンシティー埼玉新都心店",
+    "address": "さいたま市大宮区吉敷町4-263-1コクーンシティコクーン2　3階",
+    "phone_number": "048-650-7121",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "福の軒　大宮店",
+    "address": "さいたま市大宮区桜木町１丁目３－３スワンビル １階",
+    "phone_number": "048-644-8550",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "そば酒菜　高砂",
+    "address": "さいたま市大宮区桜木町4-281",
+    "phone_number": "048-641-3124",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "そば処長山",
+    "address": "さいたま市大宮区三橋1-159",
+    "phone_number": "048-651-0807",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "天下一品　大宮東口店",
+    "address": "さいたま市大宮区大門町1-45-3大宮東口貸店舗ビル１F",
+    "phone_number": "048-642-5821",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "手打ちそば春日",
+    "address": "さいたま市大宮区仲町1-62",
+    "phone_number": "080-8117-4418",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "TOKYO豚骨BASE　大宮店",
+    "address": "さいたま市大宮区錦町630JR大宮駅構内（改札外）",
+    "phone_number": "048-642-6089",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "そば代菱正庵",
+    "address": "さいたま市大宮区吉敷町4丁目263-1コクーン１北館2F　レストランモール",
+    "phone_number": "048-601-5566",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "壱角家　大宮東口店",
+    "address": "さいたま市大宮区宮町1-51陶芳堂ビルB1・１Ｆ",
+    "phone_number": "048-657-6400",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "ジャンクガレッジ　大宮駅前店",
+    "address": "さいたま市大宮区大門町1-24-11F",
+    "phone_number": "048-779-8537",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "ジャンクガレッジ　大宮２号店",
+    "address": "さいたま市大宮区宮町2-41階",
+    "phone_number": "048-729-6708",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "豚のひととき",
+    "address": "さいたま市大宮区仲町1-29柴田第一ビル2F",
+    "phone_number": "048-856-9863",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "土手町ダイナー",
+    "address": "さいたま市大宮区土手町3-14",
+    "phone_number": "048-699-1451",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "串家物語　コクーンシティさいたま新都心店",
+    "address": "さいたま市大宮区吉敷町4-263-1コクーン2　1F",
+    "phone_number": "048-641-2244",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "鎌倉パスタ　大宮マルイ店",
+    "address": "さいたま市大宮区桜木町2-3",
+    "phone_number": "048-658-2309",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "俺の洋食ビストロボナペティ",
+    "address": "さいたま市大宮区宮町1-82-2Ｆ",
+    "phone_number": "048-641-4845",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "ワイン美食屋とらぬ狸",
+    "address": "さいたま市大宮区仲町1-1ムサシビル2F",
+    "phone_number": "048-649-6388",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "ワイン美食屋　とらぬ狸",
+    "address": "さいたま市大宮区仲町1-1ムサシビル2F",
+    "phone_number": "048-649-6388",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "レストラン　アン・ドゥ・トヮ",
+    "address": "さいたま市大宮区桜木町２－２４６銀波ビル",
+    "phone_number": "048-644-6001",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "リベロ",
+    "address": "さいたま市大宮区桜木町1-231永野マンション1階",
+    "phone_number": "048-871-9555",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "ラ・ヴォーリアマッタ　大宮店",
+    "address": "さいたま市大宮区錦町630ルミネ大宮店　ルミネ2　4F",
+    "phone_number": "048-648-2448",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "ポムの樹 そごう大宮店",
+    "address": "さいたま市大宮区桜木町1-6-2 そごう大宮店 9F",
+    "phone_number": "048-631-2667",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "ポプラ",
+    "address": "さいたま市大宮区大門町1-13",
+    "phone_number": "048-644-4888",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "プロヴァンスヴェール",
+    "address": "さいたま市大宮区大門町350VIPロイヤル氷川台B1",
+    "phone_number": "048-649-5822",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "ピッツェリアさいたま馬車道桜木町",
+    "address": "さいたま市大宮区桜木町4-575-1",
+    "phone_number": "048-657-6565",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "ビストロひいき屋　大宮東口店",
+    "address": "さいたま市大宮区宮町1-23川越屋ビル２階",
+    "phone_number": "048-642-7233",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "ひいき屋大宮西口店",
+    "address": "さいたま市大宮区桜木町2-159-2安田ビル1F",
+    "phone_number": "048-643-8385",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "パレスホテル大宮フランス料理クラウンレストラン",
+    "address": "さいたま市大宮区桜木町1-7-5",
+    "phone_number": "048-647-3300",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "パレスホテル大宮カフェレストランパルテール",
+    "address": "さいたま市大宮区桜木町1-7-5",
+    "phone_number": "048-647-3300",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "パステルイタリアーナ丸井大宮店",
+    "address": "さいたま市大宮区桜木町2-3丸井大宮店7階",
+    "phone_number": "048-657-9122",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "ナポリピッツァと南イタリア料理のお店　アニモ",
+    "address": "さいたま市大宮区桜木町2-7-8第11松ビル1階",
+    "phone_number": "048-783-3958",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "ディジュリエッタ　そごう大宮店",
+    "address": "さいたま市大宮区桜木町1-6-2",
+    "phone_number": "048-788-2218",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "ディアボラ大宮店",
+    "address": "さいたま市大宮区宮町1-77-1",
+    "phone_number": "048-643-2000",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "せんば自由軒キッチン。　コクーンシティ店",
+    "address": "さいたま市大宮区吉敷町4-263-1コクーンシティコクーン２、３階フードコート内",
+    "phone_number": "048-643-5818",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "サルヴァトーレクオモ　大宮店",
+    "address": "さいたま市大宮区桜木町1丁目6-92ホテルメイン1階",
+    "phone_number": "048-642-7576",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "サルヴァトーレクオモ　さいたま新都心店",
+    "address": "さいたま市大宮区吉敷町4丁目262-11ニューキャピタルN1F",
+    "phone_number": "048-642-7965",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "コーヒー&レストラン信濃",
+    "address": "さいたま市大宮区三橋2-945",
+    "phone_number": "048-641-6210",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "ｶﾌﾟﾘﾁｮｰｻﾞ　さいたま新都心店",
+    "address": "さいたま市大宮区吉敷町4-263-1ｺｸｰﾝｼﾃｨ ｺｸｰﾝ2 1階",
+    "phone_number": "0487-88-1088",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "カフェレストラン ボアクレール",
+    "address": "さいたま市大宮区三橋1-735",
+    "phone_number": "048-662-8186",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "ｴｯｸﾞｽﾝｼﾝｸﾞｽ　さいたま新都心店",
+    "address": "さいたま市大宮区吉敷町4-263-1ｺｸｰﾝｼﾃｨ ｺｸｰﾝ2 1階",
+    "phone_number": "048-788-1151",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "エグリーズ ドゥ 葉山庵",
+    "address": "さいたま市大宮区堀の内町3-262",
+    "phone_number": "048-644-6688",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "イルキャンティ・コクーンシティ店",
+    "address": "さいたま市大宮区吉敷町4-263-6コクーンシティ　コクーン３　1階",
+    "phone_number": "048-856-9660",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "いきなりステーキ大宮西口店",
+    "address": "さいたま市大宮区桜木町2-2-13第2ユニオンビルディング1Ｆ",
+    "phone_number": "048-782-4029",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "Zefiro　Kitchen＆Bar",
+    "address": "さいたま市大宮区桜木町1-196-1",
+    "phone_number": "048-658-7700",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "trttoriatimbro",
+    "address": "さいたま市大宮区上小町603-1新横溝ビル102",
+    "phone_number": "048-783-5387",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "Trattoria Storione",
+    "address": "さいたま市大宮区桜木町1-175KGビル１F",
+    "phone_number": "048-729-6780",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "NECCO",
+    "address": "さいたま市大宮区下町2-3-9",
+    "phone_number": "048-641-5011",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "lava rockgrill terme そごう大宮店",
+    "address": "さいたま市大宮区桜木町1-6-2",
+    "phone_number": "048-657-8700",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "La Tomateria",
+    "address": "さいたま市大宮区桜木町2-158-2スプリングアートビル1F",
+    "phone_number": "048-778-7950",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "IRIS",
+    "address": "さいたま市大宮区仲町2-9East仲町白田ビル1F",
+    "phone_number": "048-645-8617",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "Dining&BarCheers",
+    "address": "さいたま市大宮区桜木町2-223モナークヴイラ1F",
+    "phone_number": "048-871-6058",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "di Giulietta そごう大宮店",
+    "address": "さいたま市大宮区桜木町1-6-2そごう大宮店 9F",
+    "phone_number": "048-788-2218",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "BUSHWICKGRILLコクーンシティ",
+    "address": "さいたま市大宮区吉敷町4-263-1",
+    "phone_number": "048-606-2615",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "BISTRO　883",
+    "address": "さいたま市大宮区宮町1-91大沼ビル１階",
+    "phone_number": "048-644-3588",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "いしがまやハンバーグ さいたま新都心",
+    "address": "さいたま市大宮区吉敷町４丁目２６３－１cocoon2",
+    "phone_number": "048-643-5258",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "3 Little Eggs さいたま新都心",
+    "address": "さいたま市大宮区吉敷町４丁目２６３－１",
+    "phone_number": "048-643-5518",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "参道バル　神家食堂",
+    "address": "さいたま市大宮区大門町3-50ビップロイヤル氷川台1階",
+    "phone_number": "048-642-3833",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "リストランテカテリーナカステッロ",
+    "address": "さいたま市大宮区北袋町1-78",
+    "phone_number": "048-641-8439",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "TO THE HERBS　さいたま新都心店",
+    "address": "さいたま市大宮区吉敷町4-267-2コクーンさいたま新都心2階",
+    "phone_number": "048-600-3200",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "土鍋パスタＳＰＡＬＡ　さいたま新都心店",
+    "address": "さいたま市大宮区吉敷町４－２６３－１コクーンシティコクーン2FC09区画",
+    "phone_number": "048-650-7141",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "CONA大宮店",
+    "address": "さいたま市大宮区宮町1-57マイルズビル1階",
+    "phone_number": "048-783-3140",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "フランス料理アルピーノ",
+    "address": "さいたま市大宮区北袋町1-130",
+    "phone_number": "048-641-9489",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "イタリア料理イルクオーレ",
+    "address": "さいたま市大宮区北袋町1-148",
+    "phone_number": "048-647-2876",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "洋食　素敵屋さん",
+    "address": "さいたま市大宮区北袋町1-147",
+    "phone_number": "048-644-9961",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "サンマルク大宮公園店",
+    "address": "さいたま市大宮区寿能町2-57",
+    "phone_number": "048-645-0309",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "イタリアンダイニングDONA 大宮店",
+    "address": "さいたま市大宮区桜木町1-6大宮スカイビル1F",
+    "phone_number": "048-646-0552",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "トレインレストラン　日本食堂",
+    "address": "さいたま市大宮区大成町3丁目47鉄道博物館内2F",
+    "phone_number": "048-662-0811",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "Railway Club 大宮店",
+    "address": "さいたま市大宮区錦町630JR大宮駅構内西口",
+    "phone_number": "090-9978-7803",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "NAMASTE NIPPON",
+    "address": "さいたま市大宮区吉敷町1ｰ91ｰ1成田ビル1階",
+    "phone_number": "048-643-0999",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "ブラッスリー　シャトレー",
+    "address": "さいたま市大宮区東町2-204",
+    "phone_number": "048-645-4500",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "和牛カルビ屋朱苑　大宮天沼店",
+    "address": "さいたま市大宮区天沼町1-439-1",
+    "phone_number": "048-658-5229",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "肉屋の二階",
+    "address": "さいたま市大宮区櫛引町1-1",
+    "phone_number": "048-664-0110",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "炭火焼肉　百花炉",
+    "address": "さいたま市大宮区吉敷町４－２６３－２０コクーンシティパークサイドビル２F",
+    "phone_number": "048-641-7773",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "新都心ホルモン本舗炭銀本店",
+    "address": "さいたま市大宮区北袋町1-90-1",
+    "phone_number": "048-699-1129",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "焼肉酒場　すみいち",
+    "address": "さいたま市大宮区下町1-5-2山田ビル1階",
+    "phone_number": "048-648-5564",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "焼肉牛車",
+    "address": "さいたま市大宮区仲町1丁目29柴田ビル1階",
+    "phone_number": "048-645-0695",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "焼肉トラジ コクーンシティ店",
+    "address": "さいたま市大宮区吉敷町4-267-2コクーンシティコクーン1北館２階",
+    "phone_number": "048-600-2929",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "焼肉きんぐ 北大宮店",
+    "address": "さいたま市大宮区土手町1-56",
+    "phone_number": "048-782-4129",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "叙々苑　大宮店",
+    "address": "さいたま市大宮区宮町1-75REX大宮ビル7F",
+    "phone_number": "048-658-0089",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "熟成和牛焼肉　 エイジング・ビーフ　大宮店",
+    "address": "さいたま市大宮区桜木町2-8-3阪デンタルビル1階",
+    "phone_number": "048-871-6932",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "七輪房　大宮駅前店",
+    "address": "さいたま市大宮区大門町1-93大宮大門町ビル2階",
+    "phone_number": "048-645-0205",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "牛繁　大宮東口店",
+    "address": "さいたま市大宮区宮町1-97-2大宮二葉ﾋﾞﾙB1F",
+    "phone_number": "048-640-2929",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "牛繁　大宮西口DOM店",
+    "address": "さいたま市大宮区桜木町2-6DOMｼｮｯﾋﾟﾝｸﾞｾﾝﾀｰPARTⅡ",
+    "phone_number": "048-783-3429",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "安楽亭 大宮大成店",
+    "address": "さいたま市大宮区大成町2-1952Ｆ",
+    "phone_number": "048-654-2861",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "焼肉　高麗房",
+    "address": "さいたま市大宮区北袋町2-424",
+    "phone_number": "048-647-1060",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "モッツバー　翠店",
+    "address": "さいたま市大宮区大門町2-27",
+    "phone_number": "048-645-0429",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "セナラ　大宮店",
+    "address": "さいたま市大宮区北袋町2-440",
+    "phone_number": "048-647-1129",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "スエヒロ館　大宮駅東口すずらん通り店",
+    "address": "さいたま市大宮区大門町1-19-4",
+    "phone_number": "048-420-2932",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "くいどん　大宮店",
+    "address": "さいたま市大宮区桜木町4-486-3",
+    "phone_number": "048-644-4129",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "『 肉山 』おおみや",
+    "address": "さいたま市大宮区桜木町2-2-5松村ビル4階",
+    "phone_number": "048-648-0029",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "3匹のひつじ　大宮店",
+    "address": "さいたま市大宮区仲町1-65-2金井ビル1階",
+    "phone_number": "048-645-4129",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "焼肉 喰心",
+    "address": "さいたま市大宮区宮町2-17パインズビル1F",
+    "phone_number": "048-657-9901",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "焼肉じろべ　大宮店",
+    "address": "さいたま市大宮区宮町1-41八千代ビル2F",
+    "phone_number": "048-648-8989",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "牛角　大宮東口店",
+    "address": "さいたま市大宮区宮町2-28あじせんビル2階",
+    "phone_number": "048-631-1129",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "焼肉ライク　大宮西口店",
+    "address": "さいたま市大宮区桜木町1-1-18誠ビル１階",
+    "phone_number": "048-643-2989",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "ブロンコビリー　大宮三橋店",
+    "address": "さいたま市大宮区三橋2丁目367番",
+    "phone_number": "048-657-2330",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "まる助大宮一番街店",
+    "address": "さいたま市大宮区宮町1-53ラック大宮一番街1階",
+    "phone_number": "048-780-2260",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "黒金29",
+    "address": "さいたま市大宮区下町1-5-1第二マルハチビル",
+    "phone_number": "048-644-6889",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "焼肉万里　大宮南銀通り店",
+    "address": "さいたま市大宮区大門町1-67豊栄ビル1F",
+    "phone_number": "048-657-6055",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "焼肉万里　大宮すずらん通り店",
+    "address": "さいたま市大宮区大門町1-20-58角井ビルⅢ2F",
+    "phone_number": "048-658-1157",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "大阪焼肉・ホルモンふたご　大宮店",
+    "address": "さいたま市大宮区宮町1-44 ｷﾝﾊﾟﾘｰﾋﾞﾙ1F",
+    "phone_number": "048-783-5956",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "焼肉酒場　暁",
+    "address": "さいたま市大宮区桜木町1-1-11棚沢ﾋﾞﾙB1",
+    "phone_number": "048-856-9829",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "日乃屋カレー大宮店",
+    "address": "さいたま市大宮区宮町1-70-2-1大宮ラクーン別館",
+    "phone_number": "048-871-9000",
+    "coordinate": [],
+    "genre": "各国料理"
+  },
+  {
+    "name": "リストランテ　オガワ",
+    "address": "さいたま市大宮区東町2-288-1鈴木ビル1F",
+    "phone_number": "048-783-3324",
+    "coordinate": [],
+    "genre": "各国料理"
+  },
+  {
+    "name": "ランクレ",
+    "address": "さいたま市大宮区下町2-32",
+    "phone_number": "048-647-1055",
+    "coordinate": [],
+    "genre": "各国料理"
+  },
+  {
+    "name": "マンゴツリーカフェ大宮",
+    "address": "さいたま市大宮区錦町630ルミネ大宮2-4F",
+    "phone_number": "048-644-2002",
+    "coordinate": [],
+    "genre": "各国料理"
+  },
+  {
+    "name": "トラットリア　アベ",
+    "address": "さいたま市大宮区天沼町1-621-212三愛ビル1F",
+    "phone_number": "048-643-7095",
+    "coordinate": [],
+    "genre": "各国料理"
+  },
+  {
+    "name": "タイレストラン　サワディー",
+    "address": "さいたま市大宮区桜木町2-4-24カツミビル4F",
+    "phone_number": "048-641-6799",
+    "coordinate": [],
+    "genre": "各国料理"
+  },
+  {
+    "name": "スパイスガーデン",
+    "address": "さいたま市大宮区桜木町1-6-2",
+    "phone_number": "048-657-7236",
+    "coordinate": [],
+    "genre": "各国料理"
+  },
+  {
+    "name": "ジャスミンパレス　そごう大宮店",
+    "address": "さいたま市大宮区桜木町1-6-2",
+    "phone_number": "048-788-3935",
+    "coordinate": [],
+    "genre": "各国料理"
+  },
+  {
+    "name": "カオマンガイキッチン エキュート大宮",
+    "address": "さいたま市大宮区錦町630JR大宮駅構内エキュート大宮",
+    "phone_number": "048-648-8780",
+    "coordinate": [],
+    "genre": "各国料理"
+  },
+  {
+    "name": "インド料理ダタールさいたま新都心店",
+    "address": "さいたま市大宮区吉敷町2-72アパホテル1F",
+    "phone_number": "048-647-2020",
+    "coordinate": [],
+    "genre": "各国料理"
+  },
+  {
+    "name": "アマラ　さいたまコクーン店",
+    "address": "さいたま市大宮区吉敷町4-263-1コクーン２　３F",
+    "phone_number": "048-788-1215",
+    "coordinate": [],
+    "genre": "各国料理"
+  },
+  {
+    "name": "Ginger's　Beach　OMIYA",
+    "address": "さいたま市大宮区桜木町1-401-1",
+    "phone_number": "048-606-2616",
+    "coordinate": [],
+    "genre": "各国料理"
+  },
+  {
+    "name": "Borabora大宮店",
+    "address": "さいたま市大宮区宮町1-114-1OREビルB1",
+    "phone_number": "048-646-3333",
+    "coordinate": [],
+    "genre": "各国料理"
+  },
+  {
+    "name": "みんなのカレーハウス",
+    "address": "さいたま市大宮区大成町2-167-1",
+    "phone_number": "048-782-5465",
+    "coordinate": [],
+    "genre": "各国料理"
+  },
+  {
+    "name": "韓美膳　大宮",
+    "address": "さいたま市大宮区錦町630ルミネ大宮２",
+    "phone_number": "048-657-8119",
+    "coordinate": [],
+    "genre": "各国料理"
+  },
+  {
+    "name": "ハニャン",
+    "address": "さいたま市大宮区東町2-122-8",
+    "phone_number": "048-776-9151",
+    "coordinate": [],
+    "genre": "各国料理"
+  },
+  {
+    "name": "テープタイ",
+    "address": "さいたま市大宮区仲町1-29-1柴田第一店舗2階",
+    "phone_number": "048-643-4777",
+    "coordinate": [],
+    "genre": "各国料理"
+  },
+  {
+    "name": "ダナパニ　大宮店",
+    "address": "さいたま市大宮区上小町599-1",
+    "phone_number": "048-642-1500",
+    "coordinate": [],
+    "genre": "各国料理"
+  },
+  {
+    "name": "コリアンダイニング クオンズ",
+    "address": "さいたま市大宮区仲町2丁目43-1ＣＯＭＯＯＭＩＹＡ 5階",
+    "phone_number": "048-648-5123",
+    "coordinate": [],
+    "genre": "各国料理"
+  },
+  {
+    "name": "台湾茶房e-one",
+    "address": "さいたま市大宮区東町1-121-2",
+    "phone_number": "048-871-8161",
+    "coordinate": [],
+    "genre": "各国料理"
+  },
+  {
+    "name": "和食レストランとんでん大宮桜木町店",
+    "address": "さいたま市大宮区桜木町4丁目533-1",
+    "phone_number": "048-650-0791",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "藍屋 大宮公園",
+    "address": "さいたま市大宮区寿能町１丁目８１－２",
+    "phone_number": "048-647-3220",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "不二家レストラン　大宮北袋店",
+    "address": "さいたま市大宮区北袋町1-216-1",
+    "phone_number": "048-644-2733",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "フレッシュネスバーガーコクーンシティさいたま新都心店",
+    "address": "さいたま市大宮区吉敷町４－２６３－１コクーンシティ＿コクーン２＿３階",
+    "phone_number": "048-788-1056",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "ファーストキッチン大宮マルイ店",
+    "address": "さいたま市大宮区桜木町2-3丸井大宮店１F",
+    "phone_number": "048-657-2606",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "ビッグボーイさいたま三橋",
+    "address": "さいたま市大宮区三橋1-1194",
+    "phone_number": "048-657-3930",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "バーガーキング　大宮西口",
+    "address": "さいたま市大宮区桜木町1-6-2大宮そごうビル内専門店街1F",
+    "phone_number": "048-645-7322",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "デニーズ　コクーンシティ店",
+    "address": "さいたま市大宮区吉敷町４－２６３－８",
+    "phone_number": "048-645-5033",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "ステーキのどん大宮西口店",
+    "address": "さいたま市大宮区桜木町1-10-17シーノ大宮1F",
+    "phone_number": "048-650-8833",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "ジョナサン 大宮東町",
+    "address": "さいたま市大宮区東町２丁目－２０",
+    "phone_number": "048-640-1573",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "ジョナサン 大宮駅東口",
+    "address": "さいたま市大宮区大門町２丁目１－１エキニア大宮２Ｆ",
+    "phone_number": "048-650-8510",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "しゃぶ葉 大宮ラクーン",
+    "address": "さいたま市大宮区宮町１丁目６０番地４階４０１区画",
+    "phone_number": "048-640-1535",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "シアトルズベストコーヒー・シナボンさいたまコクーン店",
+    "address": "さいたま市大宮区吉敷町4-263-1コクーンシティ コクーン2",
+    "phone_number": "048-788-1180",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "サーティワンアイスクリーム大宮西口店",
+    "address": "さいたま市大宮区桜木町1-6-22",
+    "phone_number": "048-646-2675",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "サーティワンアイスクリーム大宮マルイ店",
+    "address": "さいたま市大宮区桜木町2-3",
+    "phone_number": "048-871-5600",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "サーティワンアイスクリームコクーンシティ店",
+    "address": "さいたま市大宮区吉敷町4-263-1",
+    "phone_number": "048-782-6631",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "ガスト 大宮北袋",
+    "address": "さいたま市大宮区北袋町２丁目１９０",
+    "phone_number": "048-631-1552",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "ガスト 大宮大成",
+    "address": "さいたま市大宮区大成町３丁目５１６－１",
+    "phone_number": "048-660-1380",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "ガスト 大宮西口",
+    "address": "さいたま市大宮区桜木町１丁目１－８ＯＺＳＡＫＵＲＡビル２Ｆ",
+    "phone_number": "048-640-6511",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "ガスト 大宮ラクーン",
+    "address": "さいたま市大宮区宮町１丁目６０",
+    "phone_number": "048-640-6508",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "ウエンディーズ・ファーストキッチン大宮西口店",
+    "address": "さいたま市大宮区桜木町１－１－１大宮コトブキビル",
+    "phone_number": "048-640-5640",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "KUA'AINA　さいたま新都心店",
+    "address": "さいたま市大宮区吉敷町4-267-2コクーンシティコクーン2　2階",
+    "phone_number": "048-600-4900",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "びっくりドンキー大宮三橋店",
+    "address": "さいたま市大宮区三橋２丁目６６８番地",
+    "phone_number": "048-640-2153",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "松屋　大宮東口店",
+    "address": "さいたま市大宮区宮町1-5",
+    "phone_number": "048-640-1532",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "松屋　大宮大成町店",
+    "address": "さいたま市大宮区大成町3-517",
+    "phone_number": "048-661-9601",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "松屋　大宮桜木町店",
+    "address": "さいたま市大宮区桜木町2-472-3",
+    "phone_number": "048-662-6232",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "松乃家　大宮店",
+    "address": "さいたま市大宮区宮町1-50-2 いとや宮町ビル2F",
+    "phone_number": "048-640-1308",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "すし松　大宮店",
+    "address": "さいたま市大宮区宮町1-50-2 いとや宮町ビル1F",
+    "phone_number": "048-657-2033",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "吉野家　大宮店",
+    "address": "さいたま市大宮区仲町１丁目９７",
+    "phone_number": "048-650-1301",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "吉野家　大宮東口店",
+    "address": "さいたま市大宮区大門町１丁目１７－１",
+    "phone_number": "048-657-6030",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "吉野家　大宮西口店",
+    "address": "さいたま市大宮区桜木町１丁目１－１１",
+    "phone_number": "048-650-5266",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "ベッカーズ　大宮店",
+    "address": "さいたま市大宮区錦町630JR大宮駅",
+    "phone_number": "080-3363-7549",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "KFCイトーヨーカドー大宮コクーン店",
+    "address": "さいたま市大宮区吉敷町4丁目263-1",
+    "phone_number": "048-658-0710",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "すき家　大宮桜木町店",
+    "address": "さいたま市大宮区桜木町2-362シンメイ桜木ビル1F",
+    "phone_number": "0120-498-007",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "髙島屋大宮店レストランローズ",
+    "address": "さいたま市大宮区大門町1-32",
+    "phone_number": "048-643-1111",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "利久BOWLS エキュート大宮店",
+    "address": "さいたま市大宮区錦町630ecute大宮",
+    "phone_number": "048-648-8815",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "北海道　塩ザンギ　炎　大宮ルミネ店",
+    "address": "さいたま市大宮区錦町６３０ルミネ大宮１階",
+    "phone_number": "048-783-2983",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "武州うどんあかね＆みどりダイニング",
+    "address": "さいたま市大宮区桜木町2-6DOM partⅡ グルメプラザ",
+    "phone_number": "048-645-6087",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "道とん堀　大宮櫛引店",
+    "address": "さいたま市大宮区櫛引町1-185-3",
+    "phone_number": "048-652-4128",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "鉄板大名",
+    "address": "さいたま市大宮区宮町2-8-2第九松ビル2階",
+    "phone_number": "048-643-3376",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "鉄板焼と野菜　へいきゅう",
+    "address": "さいたま市大宮区桜木町2-191-7",
+    "phone_number": "048-776-9939",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "鉄板ダイニングもぐら",
+    "address": "さいたま市大宮区宮町1-54小村ビルB1",
+    "phone_number": "048-871-5552",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "仙臺たんや利久 さいたま新都心店",
+    "address": "さいたま市大宮区吉敷町4-263-1さいたま新都心コクーンシティ コクーン2 3F",
+    "phone_number": "048-650-7221",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "高倉町珈琲　大宮店",
+    "address": "さいたま市大宮区浅間町2-304-1",
+    "phone_number": "048-783-5690",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "鶏匠庵　ルミネ大宮店",
+    "address": "さいたま市大宮区錦町630ルミネ大宮2　4F",
+    "phone_number": "048-631-0288",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "粥餐庁 さいたま新都心コクーン店",
+    "address": "さいたま市大宮区吉敷町4-267-2コクーン新都心東館2F",
+    "phone_number": "048-600-6051",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "レストラン　スクエア",
+    "address": "さいたま市大宮区桜木町4-333-13OLSビル1階",
+    "phone_number": "048-650-2178",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "やきとり達ちゃん　大宮公園駅前店",
+    "address": "さいたま市大宮区寿能町1-121-3細田コーポ102",
+    "phone_number": "048-779-8264",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "ブリューパブ「氷川の杜」",
+    "address": "さいたま市大宮区高鼻町1－36－1第一大矢部ビル1Ｆ",
+    "phone_number": "048-783-5123",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "フードバザー さいたま新都心店",
+    "address": "さいたま市大宮区吉敷町4-267-2コクーン新都心1階",
+    "phone_number": "048-601-0623",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "はーべすと　そごう大宮店",
+    "address": "さいたま市大宮区桜木町1-6-2",
+    "phone_number": "048-631-3550",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "にんにく屋ルミネ大宮店",
+    "address": "さいたま市大宮区錦町630ルミネ2-4F2432",
+    "phone_number": "048-649-6776",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "タイ衆酒場ルフス",
+    "address": "さいたま市大宮区宮町4-4 花のシマムラビル5F",
+    "phone_number": "048-646-2444",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "そごう大宮店　7階",
+    "address": "さいたま市大宮区桜木町1-6-2",
+    "phone_number": "048-646-2111",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "すし七搦",
+    "address": "さいたま市大宮区宮町2-19-1",
+    "phone_number": "048-877-8811",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "しゃぶ菜丸井大宮店",
+    "address": "さいたま市大宮区桜木町２丁目３７階",
+    "phone_number": "048-657-9700",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "こて吉　さいたま新都心コクーンシティ店",
+    "address": "さいたま市大宮区吉敷町4-267-2コクーン１北館2F",
+    "phone_number": "048-600-2727",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "カレーハウスCoCo壱番屋大宮南銀座通り店",
+    "address": "さいたま市大宮区仲町一丁目87-1",
+    "phone_number": "048-640-3501",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "カレーハウスCoCo壱番屋大宮大栄橋店",
+    "address": "さいたま市大宮区宮町二丁目40-1",
+    "phone_number": "048-644-4646",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "カレーハウスCoCo壱番屋JR大宮駅西口店",
+    "address": "さいたま市大宮区桜木町2-154",
+    "phone_number": "048-640-3010",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "う匠山家膳兵衛コクーンシティ店",
+    "address": "さいたま市大宮区吉敷町4-263-1コクーンシティコクーン2-1階",
+    "phone_number": "048-788-1020",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "う匠山家膳兵衛　ルミネ大宮店",
+    "address": "さいたま市大宮区錦町630ルミネ2-4階",
+    "phone_number": "048-644-3619",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "あいろん亭",
+    "address": "さいたま市大宮区桜木町2-297-1桜ビル1階",
+    "phone_number": "048-644-1541",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "アイドル育成型ライブカフェ　アイドール",
+    "address": "さいたま市大宮区仲町2-51第二東海ビル2F",
+    "phone_number": "048-640-2727",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "TODDYS BAR",
+    "address": "さいたま市大宮区大門町2-28第一松ビル2階",
+    "phone_number": "048-778-8323",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "The Bar Sazerac",
+    "address": "さいたま市大宮区仲町2-42セッテイン5F-b",
+    "phone_number": "048-783-4110",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "BAR　祓",
+    "address": "さいたま市大宮区仲町1-33-4逸志ビル２階",
+    "phone_number": "090-8117-4022",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "Bar Glace",
+    "address": "さいたま市大宮区宮町1-33 金久保ビル2 F",
+    "phone_number": "048-645-8160",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "BAR Feliz",
+    "address": "さいたま市大宮区大門町1-72-3 1F",
+    "phone_number": "048-729-4188",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "BAR CLASSIC",
+    "address": "さいたま市大宮区仲町1-125-8大谷ビル102",
+    "phone_number": "048-643-8003",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "ALEGRIA　大宮",
+    "address": "さいたま市大宮区宮町1-42藤堂セントラルビル2F",
+    "phone_number": "048-871-5678",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "【韓豚屋】大宮店",
+    "address": "さいたま市大宮区宮町1-86-1",
+    "phone_number": "048-615-1129",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "シナグロ　オーガニックサラダ＆カフェ",
+    "address": "さいたま市大宮区桜木町1丁目6-2そごう大宮店3階",
+    "phone_number": "048-788-1660",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "ConeYaki-048",
+    "address": "さいたま市大宮区大門町3-197星野第二ビル1階",
+    "phone_number": "048-782-5059",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "やよい軒大宮大栄橋店",
+    "address": "さいたま市大宮区宮町３－１－７宮町ＨＳビル１階",
+    "phone_number": "048-650-8155",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "Bar oRangeRiver",
+    "address": "さいたま市大宮区桜木町2-292-1松栄第3ビル1F",
+    "phone_number": "048-871-8745",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "しゃぶしゃぶ但馬屋　さいたま新都心店",
+    "address": "さいたま市大宮区吉敷町4-263-1コクーン2-1F",
+    "phone_number": "048-643-5529",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "情熱のすためしどんどん大宮東口店",
+    "address": "さいたま市大宮区大門町1-3鍵利ビル1F",
+    "phone_number": "048-649-5616",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "Bar彩月庵",
+    "address": "さいたま市大宮区大門町2-25-2野原ﾋﾞﾙ3階",
+    "phone_number": "048-782-8558",
+    "coordinate": [],
+    "genre": "その他"
+  }
+]
