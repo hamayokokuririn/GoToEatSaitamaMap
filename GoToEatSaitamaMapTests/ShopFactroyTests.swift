@@ -14,12 +14,12 @@ class ShopFactoryTests: XCTestCase {
     
 
     func testGetJSONText() {
-        let text = shopFactroy.getJSONText()
+        let text = shopFactroy.getJSONText(fileName: "tyuo_shop_list_1206_with_coord")
         XCTAssertNotNil(text)
     }
     
     func testShopList() {
-        let shopList = shopFactroy.shopList()
+        let shopList = shopFactroy.shopList(area: .tyuo)
         let 庄や = Shop(
             name: "日本海庄や南与野店",
             address: "さいたま市中央区鈴谷2-748-1ウエストヒルズ1Ｆ",
