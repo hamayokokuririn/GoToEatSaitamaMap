@@ -132,10 +132,10 @@
 		24AD4B512579EEC20011600A /* Resouces */ = {
 			isa = PBXGroup;
 			children = (
-				24E7377D257F3087002570FA /* oomiya_shop_list_1208.json */,
-				24F8DA902578A53F0051CA25 /* Assets.xcassets */,
-				248EE5CB257DD16900873D55 /* tyuo_shop_list_1206_with_coord.json */,
 				24F8DA952578A53F0051CA25 /* Info.plist */,
+				24F8DA902578A53F0051CA25 /* Assets.xcassets */,
+				24E7377D257F3087002570FA /* oomiya_shop_list_1208.json */,
+				248EE5CB257DD16900873D55 /* tyuo_shop_list_1206_with_coord.json */,
 			);
 			path = Resouces;
 			sourceTree = "<group>";
