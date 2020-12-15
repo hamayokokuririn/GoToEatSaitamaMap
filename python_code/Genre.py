@@ -1,3 +1,4 @@
+#店舗のジャンルのリスト
 
 def genre_text(id_text):
     if id_text == '01':
