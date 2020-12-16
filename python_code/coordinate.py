@@ -51,7 +51,8 @@ def myhook(dict):
             return shop.Shop(dict['name'], dict['address'], dict['phone_number'], dict['coordinate'], dict['genre'])
         return shop.Shop(dict['name'], dict['address'], dict['phone_number'], dict['coordinate'], '')
 
-    return dict # 他の型はdefaultのデコード方式を使用
+    return dict  # 他の型はdefaultのデコード方式を使用
+
 
 def main():
     with open('shop_list_1213.json', 'r') as f:
@@ -60,9 +61,9 @@ def main():
         (coordinate_list, error_address_list) = coordinates(address_list, progress=True)
 
         with open('coordinate_list.text', 'w', encoding='utf-8') as g:
-          print(coordinate_list, file=g)
+            print(coordinate_list, file=g)
         with open('error_address_list.text', 'w', encoding='utf-8') as g:
-          print(error_address_list, file=g)
+            print(error_address_list, file=g)
 
         shop_list_with_coord = []
         for shop, coord in zip(shop_list, coordinate_list):
@@ -71,7 +72,8 @@ def main():
 
         output = json_encode(shop_list_with_coord)
         with open('oomiya_shop_list_1208_with_coord.json', 'w', encoding='utf-8') as g:
-          print(output, file=g)
+            print(output, file=g)
+
 
 if __name__ == '__main__':
     main()

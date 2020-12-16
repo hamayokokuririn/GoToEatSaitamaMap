@@ -1,0 +1,1136 @@
+[
+  {
+    "name": "日本海庄や南与野店",
+    "address": "さいたま市中央区鈴谷2-748-1ウエストヒルズ1Ｆ",
+    "phone_number": "048-859-9696",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "日本海庄やランド・アクシス・タワー店",
+    "address": "さいたま市中央区新都心11-2明治生命ﾗﾝﾄﾞｱｸｼｽﾀﾜｰ",
+    "phone_number": "048-601-2969",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "鳥光國さいたま新都心店",
+    "address": "さいたま市中央区新都心11-1",
+    "phone_number": "048-789-7498",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "鍛冶屋文蔵　さいたま新都心店",
+    "address": "さいたま市中央区新都心10番地けやき広場1F",
+    "phone_number": "048-600-0116",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "水炊き・もつ鍋・鳥料理　博多華味鳥　さいたま新都心店",
+    "address": "さいたま市中央区新都心11-1JRさいたま新都心ビル3F",
+    "phone_number": "048-851-4370",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "焼肉ホルモン炭銀北与野店",
+    "address": "さいたま市中央区上落合2-3-1",
+    "phone_number": "048-859-1129",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "焼きとり　みはら",
+    "address": "さいたま市中央区上落合9-8-29",
+    "phone_number": "048-858-5551",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "庄や与野本町店",
+    "address": "さいたま市中央区本町東2-4-8ロータリービル1F",
+    "phone_number": "048-840-6969",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "小太",
+    "address": "さいたま市中央区上落合5-9-3",
+    "phone_number": "048-627-3075",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "串カツ田中　与野店",
+    "address": "さいたま市中央区下落合1722",
+    "phone_number": "048-789-6394",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "銀座ライオン さいたま新都心店",
+    "address": "さいたま市中央区新都心10番地けやきひろば１F",
+    "phone_number": "048-600-3731",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "海鮮酒房いちごいちえ",
+    "address": "さいたま市中央区本町西1-13-13小野寺ビル1階",
+    "phone_number": "048-854-6268",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "沖縄・奄美料理黒龍",
+    "address": "さいたま市中央区下落合1085-16",
+    "phone_number": "048-833-2555",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "やきとり大吉　与野本町店",
+    "address": "さいたま市中央区下落合6-7-12",
+    "phone_number": "048-859-3344",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "ビア＆ワインバーだん家　さいたま新都心店",
+    "address": "さいたま市中央区新都心10番地けやき広場1F",
+    "phone_number": "048-601-5888",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "鳥貴族　北与野店",
+    "address": "さいたま市中央区上落合2-2-11ポルテ292階",
+    "phone_number": "048-764-8144",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "つくねや",
+    "address": "さいたま市中央区下落合1032",
+    "phone_number": "048-826-6581",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "串焼亭ねぎ　北与野店",
+    "address": "さいたま市中央区上落合1-10-8",
+    "phone_number": "048-826-5523",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "かさぎ屋",
+    "address": "さいたま市中央区本町東1丁目14-28",
+    "phone_number": "048-857-6606",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "てつ屋",
+    "address": "さいたま市中央区上落合3-7-10",
+    "phone_number": "048-857-9997",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "魚民　北与野駅前店",
+    "address": "さいたま市中央区上落合2-11-31アーバンV北与野ビル1階",
+    "phone_number": "048-856-4788",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "千年の宴　与野本町西口駅前店",
+    "address": "さいたま市中央区本町東2-4-10与野さくらビル２階",
+    "phone_number": "048-859-5988",
+    "coordinate": [],
+    "genre": "居酒屋"
+  },
+  {
+    "name": "肉バル　タンジン商店",
+    "address": "さいたま市中央区下落合1711",
+    "phone_number": "048-826-5187",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "アグリコ　北与野店",
+    "address": "さいたま市中央区上落合2-3-5アルーサB館2F",
+    "phone_number": "048-859-0666",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "GALA BAR MIZUNO",
+    "address": "さいたま市中央区上落合4－2－23コージーM1ビル1階",
+    "phone_number": "048-859-3511",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "ロコズアイナ",
+    "address": "さいたま市中央区下落合2-19-12",
+    "phone_number": "048-762-3753",
+    "coordinate": [],
+    "genre": "ダイニングバー/バル"
+  },
+  {
+    "name": "和幸",
+    "address": "さいたま市中央区本町西5-2-9イオンモール与野",
+    "phone_number": "048-840-3051",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "龍寿司　与野店",
+    "address": "さいたま市中央区八王子5-14-25",
+    "phone_number": "048-854-8821",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "博多ふくいち　さいたま新都心店",
+    "address": "さいたま市中央区新都心10番地けやきひろば",
+    "phone_number": "048-854-3033",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "日本料理　秋ヶ瀬庵",
+    "address": "さいたま市中央区新都心3-2",
+    "phone_number": "048-600-5514",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "築地食堂源ちゃん　さいたま新都心店",
+    "address": "さいたま市中央区新都心11-1JRさいたま新都心ビル4階",
+    "phone_number": "048-753-9136",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "大戸屋　ごはん処",
+    "address": "さいたま市中央区本町西5-2-9イオンモール与野",
+    "phone_number": "048-857-1786",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "善天",
+    "address": "さいたま市中央区桜丘2-4-27",
+    "phone_number": "048-854-6276",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "春秋亭",
+    "address": "さいたま市中央区上落合2-3-5アルーサB館2F",
+    "phone_number": "048-857-0117",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "熟成魚とお野菜の店　美味なり。",
+    "address": "さいたま市中央区下落合1711シティマークタワー21-108",
+    "phone_number": "048-753-9575",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "四六時中　与野SC店",
+    "address": "さいたま市中央区本町西5-2-9イオンモール与野３階",
+    "phone_number": "048-856-7151",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "国登録有形文化財　会席料理　二木屋",
+    "address": "さいたま市中央区大戸４－１４－２",
+    "phone_number": "048-825-4777",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "蕎麦きり　みよた",
+    "address": "さいたま市中央区本町西5-2-9イオンモール与野",
+    "phone_number": "048-829-9553",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "京雀",
+    "address": "さいたま市中央区本町西1-3-24ユニコスクエア1階105",
+    "phone_number": "048-858-5675",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "牛若丸",
+    "address": "さいたま市中央区本町西5丁目5番1号",
+    "phone_number": "048-854-9277",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "丸亀製麺",
+    "address": "さいたま市中央区本町西5-2-9イオンモール与野",
+    "phone_number": "048-856-7106",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "華屋与兵衛　さいたま芸術劇場前",
+    "address": "さいたま市中央区上峰４丁目３ー１６",
+    "phone_number": "048-854-8782",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "はま寿司南与野店",
+    "address": "さいたま市中央区大戸六丁目29番9号",
+    "phone_number": "048-840-1811",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "とんかつ坂井精肉店　与野店",
+    "address": "さいたま市中央区下落合6-18-7辻村マンション1階",
+    "phone_number": "048-762-8748",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "とりから一番　イオンモール与野店",
+    "address": "さいたま市中央区本町西5-2-9イオンモール与野1F",
+    "phone_number": "048-851-5020",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "とりから一番",
+    "address": "さいたま市中央区本町西5-2-9イオンモール与野",
+    "phone_number": "048-851-5020",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "スシローさいたま中央店",
+    "address": "さいたま市中央区本町西3-8-8",
+    "phone_number": "048-851-0200",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "しゃぶ菜 与野店",
+    "address": "さいたま市中央区本町西3-8-9",
+    "phone_number": "048-840-5336",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "しゃぶしゃぶどん亭さいたま与野店",
+    "address": "さいたま市中央区本町西4-13-11",
+    "phone_number": "048-859-6535",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "次元",
+    "address": "さいたま市中央区上落合2丁目1-25ステラデルアンジェロB1",
+    "phone_number": "048-859-6500",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "さん天　与野本町店",
+    "address": "さいたま市中央区新中里4-9-3",
+    "phone_number": "048-767-4811",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "さん天",
+    "address": "さいたま市中央区本町西5-2-9イオンモール与野",
+    "phone_number": "048-749-1023",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "さいたま新都心 風凛",
+    "address": "さいたま市中央区新都心11-1JRさいたま新都心ビル3階",
+    "phone_number": "048-711-6622",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "かっぽう好日",
+    "address": "さいたま市中央区新都心2-2",
+    "phone_number": "048-601-5557",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "がってん寿司さいたま鈴谷店",
+    "address": "さいたま市中央区鈴谷3-12-19",
+    "phone_number": "048-840-1610",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "米忠",
+    "address": "さいたま市中央区上峰4-8-17",
+    "phone_number": "048-853-4676",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "御旦孤　さいたま新都心店",
+    "address": "さいたま市中央区新都心10番地",
+    "phone_number": "048-600-3190",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "手打そば尾沼",
+    "address": "さいたま市中央区上落合5-2-3",
+    "phone_number": "048-816-6836",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "くずし割烹sawa",
+    "address": "さいたま市中央区下落合3-1-20",
+    "phone_number": "048-767-6430",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "すし銚子丸北浦和店",
+    "address": "さいたま市中央区新中里5-4-11",
+    "phone_number": "048-823-9750",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "くら寿司南与野店",
+    "address": "さいたま市中央区新中里2-4-12",
+    "phone_number": "048-859-7410",
+    "coordinate": [],
+    "genre": "和食"
+  },
+  {
+    "name": "餃子の王将与野本町店",
+    "address": "さいたま市中央区鈴谷9-6-15",
+    "phone_number": "048-852-7038",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "日高屋　南与野店",
+    "address": "さいたま市中央区鈴谷2-1215-23",
+    "phone_number": "048-858-2201",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "日高屋　さいたま新都心店",
+    "address": "さいたま市中央区新都心10けやき広場1階",
+    "phone_number": "048-600-2510",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "中国料理　成蹊",
+    "address": "さいたま市中央区新都心5-2ポルト小池ビル1階",
+    "phone_number": "048-601-2345",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "中国料理　彩賓楼",
+    "address": "さいたま市中央区新都心3-2",
+    "phone_number": "048-600-5515",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "青蓮さいたま新都心店",
+    "address": "さいたま市中央区新都心10けやきひろば1F",
+    "phone_number": "048-601-1711",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "上海菜館  アルーサ店",
+    "address": "さいたま市中央区上落合2-3-5アルーサB館2F",
+    "phone_number": "048-858-5670",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "リンガーハット",
+    "address": "さいたま市中央区本町西5-2-9イオンモール与野",
+    "phone_number": "048-851-2870",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "ばりかた屋",
+    "address": "さいたま市中央区本町西5-2-9イオンモール与野",
+    "phone_number": "048-793-5098 ",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "ぎょうざの満洲　与野西口店",
+    "address": "さいたま市中央区大字下落合1031-6",
+    "phone_number": "048-825-1705",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "ぎょうざの満洲　北与野駅前店",
+    "address": "さいたま市中央区上落合2丁目11-27",
+    "phone_number": "048-851-6636",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "王記厨房　与野店",
+    "address": "さいたま市中央区本町西5丁目2-9",
+    "phone_number": "048-749-1117",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "餃子食堂マルケン　与野駅前店",
+    "address": "さいたま市中央区下落合1034ｰ1",
+    "phone_number": "048-826-2080",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "梅蘭　JRさいたま新都心ビル店",
+    "address": "さいたま市中央区新都心11-1JRさいたま新都心ビル4F　401",
+    "phone_number": "048-762-6628",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "中国料理禰禰",
+    "address": "さいたま市中央区下落合2-23-15",
+    "phone_number": "048-833-6965",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "三ツ木屋",
+    "address": "さいたま市中央区円阿弥2-9-21",
+    "phone_number": "048-852-1964",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "餃子の宮　でんでん",
+    "address": "さいたま市中央区上峰1-1-3ｻﾝﾊﾟﾃｨｰｸII102号",
+    "phone_number": "048-753-9398",
+    "coordinate": [],
+    "genre": "中華"
+  },
+  {
+    "name": "星乃珈琲店与野本町店",
+    "address": "さいたま市中央区本町東1-1",
+    "phone_number": "048-854-2730",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "スターバックスコーヒー",
+    "address": "さいたま市中央区本町西5-2-9イオンモール与野",
+    "phone_number": "048-856-7113",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "サーティーワンアイスクリーム",
+    "address": "さいたま市中央区本町西5-2-9イオンモール与野",
+    "phone_number": "048-856-7131",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "カフェオ・シエル・ブル",
+    "address": "さいたま市中央区新都心2-2",
+    "phone_number": "048-601-5555",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "カフェ・ド・クリエ",
+    "address": "さいたま市中央区本町西5-2-9イオンモール与野",
+    "phone_number": "048-753-9886",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "カフェ　ビーンズ",
+    "address": "さいたま市中央区上落合2-3-5アルーサB館1F",
+    "phone_number": "048-857-0105",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "あんみつさん",
+    "address": "さいたま市中央区上峰3-14-19",
+    "phone_number": "048-857-2222",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "cafeSIAN",
+    "address": "さいたま市中央区鈴谷2丁目768-6メゾンルリアン南与野101",
+    "phone_number": "070-7545-4938",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "リトルマーメイドさいたま新都心",
+    "address": "さいたま市中央区新都心11　JRさいたま新都心ビル２階",
+    "phone_number": "090-8669-0699",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "プロント　さいたま新都心ビル店",
+    "address": "さいたま市中央区新都心11-1さいたま新都心ビル2階",
+    "phone_number": "048-855-8555",
+    "coordinate": [],
+    "genre": "カフェ/スイーツ"
+  },
+  {
+    "name": "洋麺屋五右衛門与野本町店",
+    "address": "さいたま市中央区本町東1-1",
+    "phone_number": "048-854-2681",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "創作蕎麦むさしや",
+    "address": "さいたま市中央区本町東4-9-8",
+    "phone_number": "048-789-7877",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "手打ちそば処　久霧",
+    "address": "さいたま市中央区上落合9-9-4プレジデントマンション101",
+    "phone_number": "048-854-8665",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "三宝亭 与野本町店",
+    "address": "さいたま市中央区下落合4丁目9番16号",
+    "phone_number": "048-711-4330",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "鶏そば光潮",
+    "address": "さいたま市中央区新中里2-1-11",
+    "phone_number": "048-708-3464",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "杵屋さいたま新都心店",
+    "address": "さいたま市中央区新都心10アリーナけやきひろば1F",
+    "phone_number": "048-601-0088",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "ラーメン魁力屋　北与野店",
+    "address": "さいたま市中央区本町東6丁目12-14",
+    "phone_number": "048-799-3799",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "そじ坊さいたま新都心店",
+    "address": "さいたま市中央区新都心10アリーナけやきひろば1F",
+    "phone_number": "048-601-5052",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "そば処かづや",
+    "address": "さいたま市中央区下落合6-7-10",
+    "phone_number": "048-853-5451",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "博多一風堂　大宮店",
+    "address": "さいたま市中央区本町西3-7-7",
+    "phone_number": "048-840-1220",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "つけ麺R&B",
+    "address": "さいたま市中央区下落合1032",
+    "phone_number": "048-822-8763",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "幸楽苑　さいたま大戸店",
+    "address": "さいたま市中央区大戸3丁目15番24号",
+    "phone_number": "048-814-0555",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "舎鈴　JRさいたま新都心ビル店",
+    "address": "さいたま市中央区新都心11-1ＪＲさいたま新都心ビル405",
+    "phone_number": "048-711-6376",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "丸亀製麺さいたま中央",
+    "address": "さいたま市中央区大戸6-15-4",
+    "phone_number": "048-859-8088",
+    "coordinate": [],
+    "genre": "麺類"
+  },
+  {
+    "name": "鎌倉パスタ　イオンモール与野店",
+    "address": "さいたま市中央区本町西5丁目2番9号",
+    "phone_number": "048-851-3309",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "街の洋食屋さん　CHACHAMARU",
+    "address": "さいたま市中央区上落合3-7-10角屋ビル1階CHACHAMARU",
+    "phone_number": "048-711-6637",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "ル・ソレイユ・ルヴァン",
+    "address": "さいたま市中央区新都心2-2",
+    "phone_number": "048-601-5557",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "ラケル",
+    "address": "さいたま市中央区本町西5-2-9イオンモール与野",
+    "phone_number": "048-858-8262",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "ホテルメトロポリタンさいたま新都心カフェクロスヤード",
+    "address": "さいたま市中央区新都心11-1JRさいたま新都心ビル5階～10階",
+    "phone_number": "048-861-1126",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "バケット　イオンモール与野店",
+    "address": "さいたま市中央区本町西5-2-93F",
+    "phone_number": "048-840-5309",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "バケット",
+    "address": "さいたま市中央区本町西5-2-9イオンモール与野",
+    "phone_number": "048-840-5309",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "バイキングレストラン　レガーロ",
+    "address": "さいたま市中央区新都心3-2",
+    "phone_number": "048-600-5516",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "ジャルダンドヨノ",
+    "address": "さいたま市中央区本町西2-6-6",
+    "phone_number": "048-857-8800",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "cocoro",
+    "address": "さいたま市中央区下落合2-23-19ガーデンハウス107",
+    "phone_number": "048-708-1212",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "Coccole",
+    "address": "さいたま市中央区上峰4-9-4",
+    "phone_number": "048-711-7588",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "キッチンSAKANAYA",
+    "address": "さいたま市中央区下落合6-19-3",
+    "phone_number": "048-831-5040",
+    "coordinate": [],
+    "genre": "洋食"
+  },
+  {
+    "name": "福寿亭",
+    "address": "さいたま市中央区上落合1-9-1与野ハウス101",
+    "phone_number": "048-854-5166",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "清香園　与野本町店",
+    "address": "さいたま市中央区鈴谷9丁目5-13",
+    "phone_number": "048-755-9839",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "焼肉炭銀北与野別館",
+    "address": "さいたま市中央区上落合1-10-6",
+    "phone_number": "048-679-1129",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "焼肉きんぐ 南与野店",
+    "address": "さいたま市中央区大戸6-15-6",
+    "phone_number": "048-762-8097",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "七輪房　南与野店",
+    "address": "さいたま市中央区大戸6-14-6",
+    "phone_number": "048-853-9429",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "国産牛焼肉食べ放題肉匠坂井　さいたま中央店",
+    "address": "さいたま市中央区鈴谷7-8-8",
+    "phone_number": "048-858-9111",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "牛繁　与野新大宮バイパス店",
+    "address": "さいたま市中央区八王子1-5-12",
+    "phone_number": "048-851-5829",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "牛角ビュッフェ　与野店",
+    "address": "さいたま市中央区新中里５－９－１０",
+    "phone_number": "048-764-8440",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "焼肉バル　ケセラ・セナラさいたま新都心店",
+    "address": "さいたま市中央区新都心10けやきひろば　レストラン＆ショップ内",
+    "phone_number": "048-600-2941",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "ねぎたん塩・焼肉・お食事ジャン髙山",
+    "address": "さいたま市中央区鈴谷2-600-3",
+    "phone_number": "048-858-0721",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "おかずや",
+    "address": "さいたま市中央区本町東5-9-1",
+    "phone_number": "048-852-6694",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "あみやき亭　与野本町店",
+    "address": "さいたま市中央区本町西1-7-8",
+    "phone_number": "048-840-1129",
+    "coordinate": [],
+    "genre": "焼肉/ホルモン"
+  },
+  {
+    "name": "Mia　Bocca　さいたま新都心店",
+    "address": "さいたま市中央区新都心11-1JRさいたま新都心ビル3F",
+    "phone_number": "048-829-9569",
+    "coordinate": [],
+    "genre": "各国料理"
+  },
+  {
+    "name": "Asian Indo Dining purunima",
+    "address": "さいたま市中央区下落合1088-3",
+    "phone_number": "048-711-2377",
+    "coordinate": [],
+    "genre": "各国料理"
+  },
+  {
+    "name": "ニムタ",
+    "address": "さいたま市中央区上峰1-1-4",
+    "phone_number": "048-711-8862",
+    "coordinate": [],
+    "genre": "各国料理"
+  },
+  {
+    "name": "ゴウサハラ",
+    "address": "さいたま市中央区新中里5-1-6",
+    "phone_number": "048-834-0011",
+    "coordinate": [],
+    "genre": "各国料理"
+  },
+  {
+    "name": "藍屋 与野バイパス",
+    "address": "さいたま市中央区桜丘２丁目８－２３",
+    "phone_number": "048-855-2226",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "太陽のカフェ",
+    "address": "さいたま市中央区本町西6-4-22与野第一ホテル",
+    "phone_number": "048-857-8211",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "ロッテリアさいたまけやきひろば店",
+    "address": "さいたま市中央区新都心10番地",
+    "phone_number": "048-601-0012",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "ロイヤルホスト　さいたま新都心店",
+    "address": "さいたま市中央区新都１１番地２明治生命さいたま新都心ビルランド・アクシス・タワー２",
+    "phone_number": "048-600-5656",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "モスバーガー与野西口店",
+    "address": "さいたま市中央区下落合1712番地スカイレジデンシャルタワーノースウィング105",
+    "phone_number": "048-832-7112",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "モスバーガー",
+    "address": "さいたま市中央区本町西5-2-9イオンモール与野",
+    "phone_number": "048-789-7152",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "バーミヤン 与野本町",
+    "address": "さいたま市中央区本町西４丁目１０－３",
+    "phone_number": "048-851-0089",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "ステーキのどん与野店",
+    "address": "さいたま市中央区上峰3丁目9-13",
+    "phone_number": "048-855-3229",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "ステーキガスト 与野",
+    "address": "さいたま市中央区下落合２丁目６－９",
+    "phone_number": "048-830-1180",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "ジョナサン 北与野",
+    "address": "さいたま市中央区上落合１丁目１１－３",
+    "phone_number": "048-857-5689",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "しゃぶ葉 南与野",
+    "address": "さいたま市中央区大戸６丁目１７－６",
+    "phone_number": "048-859-7181",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "ケンタッキーフライドチキン",
+    "address": "さいたま市中央区本町西5-2-9イオンモール与野",
+    "phone_number": "048-851-4670",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "かつや　南与野",
+    "address": "さいたま市中央区大戸６丁目13番11号",
+    "phone_number": "048-840-5600",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "ガスト 与野上峰",
+    "address": "さいたま市中央区上峰２丁目１－１",
+    "phone_number": "048-840-1060",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "松屋　与野店",
+    "address": "さいたま市中央区上峰4-14-12",
+    "phone_number": "048-851-6341",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "吉野家　１７号線与野店",
+    "address": "さいたま市中央区円阿弥６丁目３－１",
+    "phone_number": "048-840-1261",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "吉野家　１７号線与野本町店",
+    "address": "さいたま市中央区本町西４丁目１５－１２",
+    "phone_number": "048-840-1730",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "吉野家　４６３号線南与野店",
+    "address": "さいたま市中央区鈴谷２丁目６０３－２",
+    "phone_number": "048-851-6580",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "久兵衛屋　南与野店",
+    "address": "さいたま市中央区鈴谷2-721-1",
+    "phone_number": "0120-070-140",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "KFCイオンモール与野店",
+    "address": "さいたま市中央区本町西５－２－９",
+    "phone_number": "048-851-4670",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "すき家　さいたま与野本町店",
+    "address": "さいたま市中央区鈴谷9-10-4",
+    "phone_number": "0120-498-007",
+    "coordinate": [],
+    "genre": "ファーストフード/ファミレス"
+  },
+  {
+    "name": "馬肉専門卸問屋 勝馬",
+    "address": "さいたま市中央区下落合1712スカイレジデンシャルタワーズノースウィング103",
+    "phone_number": "048-711-1376",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "さいたま赤十字病院レストランビアンモール",
+    "address": "さいたま市中央区新都心1-5",
+    "phone_number": "048-859-6011",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "さいたま赤十字病院ベーカリーカフェコア",
+    "address": "さいたま市中央区新都心1-5",
+    "phone_number": "048-859-6012",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "カレー食堂 心 さいたま新都心店",
+    "address": "さいたま市中央区新都心10けやきひろば１階",
+    "phone_number": "048-600-0080",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "カリーキングダム",
+    "address": "さいたま市中央区上落合5-9-2",
+    "phone_number": "048-855-9339",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "かっぱ寿司　イオンモール与野店",
+    "address": "さいたま市中央区本町西5-2-93階311区画",
+    "phone_number": "048-767-6265",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "Serafina New Yorkさいたま新都心店",
+    "address": "さいたま市中央区新都心10けやきひろば3階",
+    "phone_number": "048-600-6060",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "Amusement Cafe ZICCA",
+    "address": "さいたま市中央区本町東1-9-8",
+    "phone_number": "048-829-7830",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "acquacotta",
+    "address": "さいたま市中央区下落合7-6-13",
+    "phone_number": "048-762-7682",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "カフェ&キッチンふじ",
+    "address": "さいたま市中央区上落合9-6-9",
+    "phone_number": "048-853-1445",
+    "coordinate": [],
+    "genre": "その他"
+  },
+  {
+    "name": "ＨＯＭＥ’Ｓさいたまタニタ食堂",
+    "address": "さいたま市中央区上落合８－３－３２ホームズさいたま中央店 2F",
+    "phone_number": "048-851-1584",
+    "coordinate": [],
+    "genre": "その他"
+  }
+]

@@ -1,5 +1,6 @@
 import json
 
+
 class Shop:
     def __init__(self, name, address, phone_number, coordinate, genre):
         self.name = name
@@ -18,13 +19,15 @@ class MyJSONEncoder(json.JSONEncoder):
                 "phone_number": obj.phone_number,
                 "coordinate": obj.coordinate,
                 "genre": obj.genre
-                }
+            }
 
         # Call the default method for other types
         return json.JSONEncoder.default(self, obj)
 
+
 def json_encode(data):
     return json.dumps(data, ensure_ascii=False, cls=MyJSONEncoder, indent=2)
+
 
 def myhook(dict):
     if 'name' in dict:
@@ -32,7 +35,8 @@ def myhook(dict):
             return Shop(dict['name'], dict['address'], dict['phone_number'], dict['coordinate'], dict['genre'])
         else:
             return Shop(dict['name'], dict['address'], dict['phone_number'], dict['coordinate'], '')
-    return dict # 他の型はdefaultのデコード方式を使用
+    return dict  # 他の型はdefaultのデコード方式を使用
+
 
 def json_decode(data):
     return json.load(data, object_hook=myhook)

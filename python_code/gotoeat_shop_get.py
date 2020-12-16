@@ -16,7 +16,8 @@ from selenium.webdriver.support.select import Select
 
 import shop
 import coordinate as coord
-from Genre import genre_text
+from genre import genre_text
+
 
 def shop_list(area, id_number, limit=None):
     try:
@@ -32,7 +33,7 @@ def shop_list(area, id_number, limit=None):
 
         wait.until(EC.presence_of_element_located((By.NAME, 'seach_municipality')))
 
-        select_element = driver.find_element(By.ID,'round')
+        select_element = driver.find_element(By.ID, 'round')
         select_object = Select(select_element)
         select_object.select_by_visible_text(text=area)
 
@@ -81,8 +82,9 @@ def main():
     list = list_01 + list_02 + list_03 + list_04 + list_05 + list_06 + list_07 + list_08 + list_09 + list_10 + list_11
 
     encoded_shop = shop.json_encode(list)
-    with open('shop_list_1213.json', 'w', encoding='utf-8') as g:
-      print(encoded_shop, file=g)
+    with open('shop_list_1216.json', 'w', encoding='utf-8') as g:
+        print(encoded_shop, file=g)
+
 
 if __name__ == '__main__':
     main()
