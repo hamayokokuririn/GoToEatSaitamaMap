@@ -4,18 +4,15 @@
 # GoToEat埼玉のページの中央区の情報をChromeで開く
 # 店舗情報を取得する
 
-import lxml
 from bs4 import BeautifulSoup
 from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
-import chromedriver_binary
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.select import Select
+from selenium.webdriver.support.ui import WebDriverWait
 
 import shop
-import coordinate as coord
 from genre import genre_text
 
 
