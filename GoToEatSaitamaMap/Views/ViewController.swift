@@ -80,6 +80,7 @@ class ViewController: UIViewController {
         
         mapView.showsUserLocation = true
         showShopAnnotations()
+        showOverlayTyuoArea()
     }
 
     override func viewDidLoad() {
@@ -96,6 +97,12 @@ class ViewController: UIViewController {
             let pin = ShopAnnotaion(shop: $0)
             mapView.addAnnotation(pin)
         }
+    }
+    
+    private func showOverlayTyuoArea() {
+        let area = TyuoAreaBorder()
+        let polygon = area.polygon()
+        mapView.addOverlay(polygon)
     }
     
     private func registerAnnotationViewClasses() {
@@ -195,10 +202,19 @@ extension ViewController: MKMapViewDelegate {
     }
     
     func mapView(_ mapView: MKMapView, rendererFor overlay: MKOverlay) -> MKOverlayRenderer {
-        let renderer = MKPolylineRenderer(overlay: overlay)
-        renderer.strokeColor = UIColor.blue
-        renderer.lineWidth = 4.0
-        return renderer
+        if overlay is MKPolyline {
+            let renderer = MKPolylineRenderer(overlay: overlay)
+            renderer.strokeColor = UIColor.blue
+            renderer.lineWidth = 4.0
+            return renderer
+        }
+        if overlay is MKPolygon {
+            let renderer = MKPolygonRenderer(overlay: overlay)
+            renderer.fillColor = .red
+            renderer.alpha = 0.1
+            return renderer
+        }
+        return MKOverlayRenderer(overlay: overlay)
     }
     
 }

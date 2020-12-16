@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		240212502589DCB200946FB4 /* TyuoAreaBorder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2402124F2589DCB200946FB4 /* TyuoAreaBorder.swift */; };
+		240212552589E32B00946FB4 /* TyuoAreaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 240212542589E32B00946FB4 /* TyuoAreaTests.swift */; };
 		2404449A257DDDE1007D9CD5 /* ShopAnnotaion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24044499257DDDE1007D9CD5 /* ShopAnnotaion.swift */; };
 		2404449F257DE33C007D9CD5 /* ShopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2404449E257DE33C007D9CD5 /* ShopView.swift */; };
 		240444A4257DE6BD007D9CD5 /* ShopRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 240444A3257DE6BD007D9CD5 /* ShopRepository.swift */; };
@@ -48,6 +50,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2402124F2589DCB200946FB4 /* TyuoAreaBorder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TyuoAreaBorder.swift; sourceTree = "<group>"; };
+		240212542589E32B00946FB4 /* TyuoAreaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TyuoAreaTests.swift; sourceTree = "<group>"; };
 		24044499257DDDE1007D9CD5 /* ShopAnnotaion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopAnnotaion.swift; sourceTree = "<group>"; };
 		2404449E257DE33C007D9CD5 /* ShopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopView.swift; sourceTree = "<group>"; };
 		240444A3257DE6BD007D9CD5 /* ShopRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopRepository.swift; sourceTree = "<group>"; };
@@ -136,6 +140,7 @@
 				24F8DA902578A53F0051CA25 /* Assets.xcassets */,
 				24E7377D257F3087002570FA /* oomiya_shop_list_1208.json */,
 				248EE5CB257DD16900873D55 /* tyuo_shop_list_1206_with_coord.json */,
+				2402124F2589DCB200946FB4 /* TyuoAreaBorder.swift */,
 			);
 			path = Resouces;
 			sourceTree = "<group>";
@@ -187,6 +192,7 @@
 				24F8DAA02578A53F0051CA25 /* Info.plist */,
 				248E695A257A2E1F00A4E8B6 /* ShopFactroyTests.swift */,
 				24E7378C257F70C0002570FA /* ShopCoordinateSearcherTests.swift */,
+				240212542589E32B00946FB4 /* TyuoAreaTests.swift */,
 			);
 			path = GoToEatSaitamaMapTests;
 			sourceTree = "<group>";
@@ -344,6 +350,7 @@
 				24E73783257F30CC002570FA /* CoordinateLoader.swift in Sources */,
 				24AAF9AA2580D43E00D7846D /* Area.swift in Sources */,
 				24AD4B582579EF140011600A /* Shop.swift in Sources */,
+				240212502589DCB200946FB4 /* TyuoAreaBorder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -353,6 +360,7 @@
 			files = (
 				24E7378D257F70C0002570FA /* ShopCoordinateSearcherTests.swift in Sources */,
 				248E695B257A2E1F00A4E8B6 /* ShopFactroyTests.swift in Sources */,
+				240212552589E32B00946FB4 /* TyuoAreaTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
