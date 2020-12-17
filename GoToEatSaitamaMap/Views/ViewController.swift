@@ -14,7 +14,6 @@ class ViewController: UIViewController {
     let mapView = MKMapView()
     let shopView = ShopView(frame: .zero)
     let shopClusterListView = ShopClusterListView()
-    let oomiyaButton = UIButton()
     
     let locationManager = CLLocationManager()
     var isFirstSetCenter = true
@@ -29,18 +28,12 @@ class ViewController: UIViewController {
     }
     
     private func setupSubviews() {
-        
         view.addSubview(mapView)
         view.addSubview(shopView)
         shopView.isHidden = true
         view.addSubview(shopClusterListView)
         shopClusterListView.isHidden = true
         shopClusterListView.listViewDelegate = self
-        
-        oomiyaButton.setTitle("大宮区", for: .normal)
-        oomiyaButton.addTarget(self, action:#selector(didPushOomiya), for: .touchUpInside)
-        oomiyaButton.backgroundColor = .blue
-//        view.addSubview(oomiyaButton)
     }
     
     override func viewWillLayoutSubviews() {
@@ -58,17 +51,6 @@ class ViewController: UIViewController {
         let listViewHeight = CGFloat(120)
         shopClusterListView.frame = CGRect(x: 16, y: mainFrame.maxY - listViewHeight - bottomMargin,
                                            width: mainFrame.width - 32, height: listViewHeight)
-        
-        oomiyaButton.frame = CGRect(x: view.safeAreaInsets.left, y: view.safeAreaInsets.top,
-                                    width: 60, height: 40)
-    }
-    
-    @objc private func didPushOomiya() {
-        print("oomiya")
-        shopRepository.fetch(area: .omiya) {
-            print(self.shopRepository.shopList.first)
-            print(self.shopRepository.shopList.last)
-        }
     }
     
     private func setupMap() {
