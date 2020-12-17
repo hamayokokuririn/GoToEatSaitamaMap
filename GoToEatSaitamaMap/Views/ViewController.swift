@@ -54,13 +54,19 @@ class ViewController: UIViewController {
     }
     
     private func setupMap() {
-        var region = mapView.region
-        region.span.latitudeDelta = 0.02
-        region.span.longitudeDelta = 0.02
-        region.center = CLLocationCoordinate2D(latitude: CLLocationDegrees(35.867877), longitude: CLLocationDegrees(139.629316))
-        mapView.setRegion(region,animated:false)
+        let boundary = MKMapView.CameraBoundary(coordinateRegion: MKCoordinateRegion(center: CLLocationCoordinate2D(latitude: 36.061104,
+                                                                                                                    longitude: 139.2787508),
+                                                                                     span: MKCoordinateSpan(latitudeDelta: 0.5,
+                                                                                                            longitudeDelta: 1)))
+        mapView.setCameraBoundary(boundary, animated: false)
+        mapView.setCameraZoomRange(MKMapView.CameraZoomRange(maxCenterCoordinateDistance: 50 * 1000), animated: false)
         
+        let regionCenter = CLLocationCoordinate2D(latitude: 35.867877, longitude: 139.629316)
+        let region = MKCoordinateRegion(center: regionCenter, latitudinalMeters: 1000, longitudinalMeters: 1000)
+        mapView.setRegion(region, animated:false)
+
         mapView.showsUserLocation = true
+        
         showShopAnnotations()
         showOverlayTyuoArea()
     }
