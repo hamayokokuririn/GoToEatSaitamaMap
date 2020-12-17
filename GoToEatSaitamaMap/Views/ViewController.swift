@@ -100,9 +100,16 @@ class ViewController: UIViewController {
     }
     
     private func showOverlayTyuoArea() {
-        let area = TyuoAreaBorder()
-        let polygon = area.polygon()
-        mapView.addOverlay(polygon)
+        let tyuoArea = TyuoAreaBorder()
+        let tyuoPolygon = tyuoArea.polygon()
+        let overallArea = [
+            CLLocationCoordinate2D(latitude: 35.7926364, longitude: 139.9048961),
+            CLLocationCoordinate2D(latitude: 36.2841001, longitude: 139.8764339),
+            CLLocationCoordinate2D(latitude: 36.2977199, longitude: 138.6847137),
+            CLLocationCoordinate2D(latitude: 35.8108062, longitude: 138.6762004)
+        ]
+        let overallAreaPolygon = MKPolygon(coordinates: overallArea, count: overallArea.count, interiorPolygons: [tyuoPolygon])
+        mapView.addOverlay(overallAreaPolygon)
     }
     
     private func registerAnnotationViewClasses() {
