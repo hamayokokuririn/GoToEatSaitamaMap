@@ -217,7 +217,7 @@ extension ViewController: MKMapViewDelegate {
         }
         if overlay is MKPolygon {
             let renderer = MKPolygonRenderer(overlay: overlay)
-            renderer.fillColor = .red
+            renderer.fillColor = .black
             renderer.alpha = 0.1
             return renderer
         }
