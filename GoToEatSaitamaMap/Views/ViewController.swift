@@ -193,7 +193,8 @@ extension ViewController: MKMapViewDelegate {
     private func didDeselect() {
         shopView.isHidden = true
         shopClusterListView.isHidden = true
-        mapView.removeOverlays(mapView.overlays)
+        let polylines = mapView.overlays.filter {$0 is MKPolyline}
+        mapView.removeOverlays(polylines)
     }
     
     func mapView(_ mapView: MKMapView, rendererFor overlay: MKOverlay) -> MKOverlayRenderer {
