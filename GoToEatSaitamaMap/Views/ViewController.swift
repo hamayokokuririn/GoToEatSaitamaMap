@@ -56,7 +56,7 @@ class ViewController: UIViewController {
     private func setupMap() {
         let boundary = MKMapView.CameraBoundary(coordinateRegion: MKCoordinateRegion(center: CLLocationCoordinate2D(latitude: 36.061104,
                                                                                                                     longitude: 139.2787508),
-                                                                                     span: MKCoordinateSpan(latitudeDelta: 0.5,
+                                                                                     span: MKCoordinateSpan(latitudeDelta: 0.3,
                                                                                                             longitudeDelta: 1)))
         mapView.setCameraBoundary(boundary, animated: false)
         mapView.setCameraZoomRange(MKMapView.CameraZoomRange(maxCenterCoordinateDistance: 50 * 1000), animated: false)
